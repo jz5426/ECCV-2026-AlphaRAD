@@ -1,0 +1,6 @@
+chexpert:
+  name: "chexpert"
+  data_type: "image_classification"
+  data_path: "/configs/data_csv/chexpert.csv"
+  n_class: 12
+  normalize: ${designs.model.image_encoder.configs.normalize}

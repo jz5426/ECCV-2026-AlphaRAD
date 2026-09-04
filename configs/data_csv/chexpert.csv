@@ -1,0 +1,669 @@
+image,label,class
+.../patient64741/study1/view1_frontal.jpg,"[0, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1]","['Enlarged Cardiomediastinum', 'Cardiomegaly', 'Lung Opacity', 'Support Devices']"
+.../patient64742/study1/view1_frontal.jpg,"[0, 1, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0]","['Enlarged Cardiomediastinum', 'Lung Opacity', 'Atelectasis']"
+.../patient64743/study1/view1_frontal.jpg,"[0, 1, 1, 1, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0]","['Enlarged Cardiomediastinum', 'Cardiomegaly', 'Lung Opacity', 'Edema', 'Atelectasis']"
+.../patient64744/study1/view1_frontal.jpg,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1]",['Support Devices']
+.../patient64744/study1/view2_lateral.jpg,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1]",['Support Devices']
+.../patient64744/study1/view3_lateral.jpg,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1]",['Support Devices']
+.../patient64745/study1/view1_frontal.jpg,"[0, 1, 1, 1, 1, 0, 0, 0, 1, 0, 1, 0, 0, 1]","['Enlarged Cardiomediastinum', 'Cardiomegaly', 'Lung Opacity', 'Lung Lesion', 'Atelectasis', 'Pleural Effusion', 'Support Devices']"
+.../patient64745/study1/view2_lateral.jpg,"[0, 1, 1, 1, 1, 0, 0, 0, 1, 0, 1, 0, 0, 1]","['Enlarged Cardiomediastinum', 'Cardiomegaly', 'Lung Opacity', 'Lung Lesion', 'Atelectasis', 'Pleural Effusion', 'Support Devices']"
+.../patient64746/study1/view1_frontal.jpg,"[0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 1, 0, 0, 1]","['Lung Opacity', 'Atelectasis', 'Pleural Effusion', 'Support Devices']"
+.../patient64747/study1/view1_frontal.jpg,"[0, 0, 0, 1, 1, 0, 1, 0, 0, 0, 1, 0, 0, 1]","['Lung Opacity', 'Lung Lesion', 'Consolidation', 'Pleural Effusion', 'Support Devices']"
+.../patient64747/study1/view2_lateral.jpg,"[0, 0, 0, 1, 1, 0, 1, 0, 0, 0, 1, 0, 0, 1]","['Lung Opacity', 'Lung Lesion', 'Consolidation', 'Pleural Effusion', 'Support Devices']"
+.../patient64748/study1/view1_frontal.jpg,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1]",['Support Devices']
+.../patient64748/study1/view2_lateral.jpg,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1]",['Support Devices']
+.../patient64749/study1/view1_frontal.jpg,"[0, 1, 1, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1]","['Enlarged Cardiomediastinum', 'Cardiomegaly', 'Lung Opacity', 'Edema', 'Support Devices']"
+.../patient64750/study1/view1_frontal.jpg,"[1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",['No Finding']
+.../patient64750/study1/view2_lateral.jpg,"[1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",['No Finding']
+.../patient64751/study1/view1_frontal.jpg,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1]",['Support Devices']
+.../patient64751/study1/view2_lateral.jpg,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1]",['Support Devices']
+.../patient64752/study1/view1_frontal.jpg,"[0, 1, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1]","['Enlarged Cardiomediastinum', 'Lung Opacity', 'Lung Lesion', 'Support Devices']"
+.../patient64753/study1/view1_frontal.jpg,"[0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]","['Enlarged Cardiomediastinum', 'Cardiomegaly']"
+.../patient64754/study1/view1_frontal.jpg,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",[]
+.../patient64754/study1/view2_lateral.jpg,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",[]
+.../patient64755/study1/view1_frontal.jpg,"[0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",['Lung Opacity']
+.../patient64755/study1/view2_lateral.jpg,"[0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",['Lung Opacity']
+.../patient64756/study1/view1_frontal.jpg,"[1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",['No Finding']
+.../patient64756/study1/view2_lateral.jpg,"[1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",['No Finding']
+.../patient64756/study1/view3_lateral.jpg,"[1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",['No Finding']
+.../patient64757/study1/view1_frontal.jpg,"[0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]","['Enlarged Cardiomediastinum', 'Cardiomegaly']"
+.../patient64758/study1/view1_frontal.jpg,"[0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0]","['Lung Opacity', 'Atelectasis']"
+.../patient64759/study1/view1_frontal.jpg,"[0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]","['Enlarged Cardiomediastinum', 'Lung Opacity']"
+.../patient64759/study1/view2_lateral.jpg,"[0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]","['Enlarged Cardiomediastinum', 'Lung Opacity']"
+.../patient64760/study1/view1_frontal.jpg,"[1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",['No Finding']
+.../patient64761/study1/view1_frontal.jpg,"[0, 1, 1, 1, 0, 0, 1, 1, 1, 0, 1, 0, 0, 1]","['Enlarged Cardiomediastinum', 'Cardiomegaly', 'Lung Opacity', 'Consolidation', 'Pneumonia', 'Atelectasis', 'Pleural Effusion', 'Support Devices']"
+.../patient64762/study1/view1_frontal.jpg,"[0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]","['Enlarged Cardiomediastinum', 'Cardiomegaly']"
+.../patient64762/study1/view2_lateral.jpg,"[0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]","['Enlarged Cardiomediastinum', 'Cardiomegaly']"
+.../patient64763/study1/view1_frontal.jpg,"[0, 1, 1, 1, 0, 1, 0, 0, 1, 0, 1, 0, 0, 0]","['Enlarged Cardiomediastinum', 'Cardiomegaly', 'Lung Opacity', 'Edema', 'Atelectasis', 'Pleural Effusion']"
+.../patient64763/study1/view2_lateral.jpg,"[0, 1, 1, 1, 0, 1, 0, 0, 1, 0, 1, 0, 0, 0]","['Enlarged Cardiomediastinum', 'Cardiomegaly', 'Lung Opacity', 'Edema', 'Atelectasis', 'Pleural Effusion']"
+.../patient64764/study1/view1_frontal.jpg,"[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",['Enlarged Cardiomediastinum']
+.../patient64764/study1/view2_lateral.jpg,"[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",['Enlarged Cardiomediastinum']
+.../patient64765/study1/view1_frontal.jpg,"[1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",['No Finding']
+.../patient64766/study1/view1_frontal.jpg,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1]",['Support Devices']
+.../patient64766/study1/view2_lateral.jpg,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1]",['Support Devices']
+.../patient64767/study1/view1_frontal.jpg,"[0, 1, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1]","['Enlarged Cardiomediastinum', 'Lung Opacity', 'Atelectasis', 'Support Devices']"
+.../patient64768/study1/view1_frontal.jpg,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",[]
+.../patient64768/study1/view2_lateral.jpg,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",[]
+.../patient64769/study1/view1_frontal.jpg,"[1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",['No Finding']
+.../patient64770/study1/view1_frontal.jpg,"[0, 1, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0]","['Enlarged Cardiomediastinum', 'Cardiomegaly', 'Lung Opacity', 'Atelectasis']"
+.../patient64771/study1/view1_frontal.jpg,"[0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 1]","['Enlarged Cardiomediastinum', 'Lung Opacity', 'Pleural Effusion', 'Support Devices']"
+.../patient64772/study1/view1_frontal.jpg,"[0, 1, 1, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0]","['Enlarged Cardiomediastinum', 'Cardiomegaly', 'Lung Opacity', 'Edema']"
+.../patient64773/study1/view1_frontal.jpg,"[0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]","['Enlarged Cardiomediastinum', 'Cardiomegaly']"
+.../patient64774/study1/view1_frontal.jpg,"[1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",['No Finding']
+.../patient64775/study1/view1_frontal.jpg,"[1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",['No Finding']
+.../patient64775/study1/view2_lateral.jpg,"[1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",['No Finding']
+.../patient64776/study1/view1_frontal.jpg,"[0, 1, 0, 1, 0, 0, 0, 0, 1, 0, 1, 0, 0, 1]","['Enlarged Cardiomediastinum', 'Lung Opacity', 'Atelectasis', 'Pleural Effusion', 'Support Devices']"
+.../patient64777/study1/view1_frontal.jpg,"[0, 1, 0, 1, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0]","['Enlarged Cardiomediastinum', 'Lung Opacity', 'Atelectasis', 'Pleural Effusion']"
+.../patient64778/study1/view1_frontal.jpg,"[0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0]","['Enlarged Cardiomediastinum', 'Cardiomegaly', 'Pleural Effusion']"
+.../patient64779/study1/view1_frontal.jpg,"[0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 1]","['Lung Opacity', 'Pleural Effusion', 'Support Devices']"
+.../patient64780/study1/view1_frontal.jpg,"[0, 1, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1]","['Enlarged Cardiomediastinum', 'Lung Opacity', 'Atelectasis', 'Support Devices']"
+.../patient64781/study1/view1_frontal.jpg,"[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0]","['Enlarged Cardiomediastinum', 'Pleural Effusion', 'Pleural Other']"
+.../patient64781/study1/view2_lateral.jpg,"[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0]","['Enlarged Cardiomediastinum', 'Pleural Effusion', 'Pleural Other']"
+.../patient64782/study1/view1_frontal.jpg,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1]",['Support Devices']
+.../patient64783/study1/view1_frontal.jpg,"[0, 1, 1, 1, 0, 0, 0, 0, 1, 0, 1, 0, 0, 1]","['Enlarged Cardiomediastinum', 'Cardiomegaly', 'Lung Opacity', 'Atelectasis', 'Pleural Effusion', 'Support Devices']"
+.../patient64784/study1/view1_frontal.jpg,"[1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",['No Finding']
+.../patient64785/study1/view1_frontal.jpg,"[1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",['No Finding']
+.../patient64785/study1/view2_lateral.jpg,"[1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",['No Finding']
+.../patient64786/study1/view1_frontal.jpg,"[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 1]","['Enlarged Cardiomediastinum', 'Pleural Effusion', 'Support Devices']"
+.../patient64786/study1/view2_lateral.jpg,"[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 1]","['Enlarged Cardiomediastinum', 'Pleural Effusion', 'Support Devices']"
+.../patient64787/study1/view1_frontal.jpg,"[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",['Enlarged Cardiomediastinum']
+.../patient64787/study1/view2_lateral.jpg,"[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",['Enlarged Cardiomediastinum']
+.../patient64788/study1/view1_frontal.jpg,"[1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",['No Finding']
+.../patient64788/study1/view2_lateral.jpg,"[1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",['No Finding']
+.../patient64789/study1/view1_frontal.jpg,"[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",['Enlarged Cardiomediastinum']
+.../patient64790/study1/view1_frontal.jpg,"[0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]","['Enlarged Cardiomediastinum', 'Lung Opacity']"
+.../patient64791/study1/view1_frontal.jpg,"[0, 0, 0, 1, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0]","['Lung Opacity', 'Lung Lesion', 'Atelectasis']"
+.../patient64791/study1/view2_frontal.jpg,"[0, 0, 0, 1, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0]","['Lung Opacity', 'Lung Lesion', 'Atelectasis']"
+.../patient64791/study1/view3_lateral.jpg,"[0, 0, 0, 1, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0]","['Lung Opacity', 'Lung Lesion', 'Atelectasis']"
+.../patient64792/study1/view1_frontal.jpg,"[1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",['No Finding']
+.../patient64792/study1/view2_lateral.jpg,"[1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",['No Finding']
+.../patient64793/study1/view1_frontal.jpg,"[0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]","['Enlarged Cardiomediastinum', 'Cardiomegaly']"
+.../patient64794/study1/view1_frontal.jpg,"[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",['Enlarged Cardiomediastinum']
+.../patient64794/study1/view2_lateral.jpg,"[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",['Enlarged Cardiomediastinum']
+.../patient64795/study1/view1_frontal.jpg,"[0, 1, 0, 1, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0]","['Enlarged Cardiomediastinum', 'Lung Opacity', 'Atelectasis', 'Pleural Effusion']"
+.../patient64795/study1/view2_lateral.jpg,"[0, 1, 0, 1, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0]","['Enlarged Cardiomediastinum', 'Lung Opacity', 'Atelectasis', 'Pleural Effusion']"
+.../patient64796/study1/view1_frontal.jpg,"[0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]","['Enlarged Cardiomediastinum', 'Cardiomegaly']"
+.../patient64797/study1/view1_frontal.jpg,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1]","['Fracture', 'Support Devices']"
+.../patient64798/study1/view1_frontal.jpg,"[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1]","['Enlarged Cardiomediastinum', 'Support Devices']"
+.../patient64798/study1/view2_lateral.jpg,"[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1]","['Enlarged Cardiomediastinum', 'Support Devices']"
+.../patient64799/study1/view1_frontal.jpg,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1]",['Support Devices']
+.../patient64799/study1/view2_lateral.jpg,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1]",['Support Devices']
+.../patient64800/study1/view1_frontal.jpg,"[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1]","['Enlarged Cardiomediastinum', 'Support Devices']"
+.../patient64801/study1/view1_frontal.jpg,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1]",['Support Devices']
+.../patient64801/study1/view2_lateral.jpg,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1]",['Support Devices']
+.../patient64802/study1/view1_frontal.jpg,"[0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1]","['Enlarged Cardiomediastinum', 'Lung Opacity', 'Support Devices']"
+.../patient64803/study1/view1_frontal.jpg,"[0, 1, 1, 1, 0, 0, 0, 0, 1, 0, 1, 0, 0, 1]","['Enlarged Cardiomediastinum', 'Cardiomegaly', 'Lung Opacity', 'Atelectasis', 'Pleural Effusion', 'Support Devices']"
+.../patient64804/study1/view1_frontal.jpg,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",[]
+.../patient64805/study1/view1_frontal.jpg,"[1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",['No Finding']
+.../patient64806/study1/view1_frontal.jpg,"[1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",['No Finding']
+.../patient64806/study1/view2_lateral.jpg,"[1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",['No Finding']
+.../patient64807/study1/view1_frontal.jpg,"[0, 1, 1, 1, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0]","['Enlarged Cardiomediastinum', 'Cardiomegaly', 'Lung Opacity', 'Edema', 'Atelectasis']"
+.../patient64808/study1/view1_frontal.jpg,"[1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",['No Finding']
+.../patient64808/study1/view2_lateral.jpg,"[1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",['No Finding']
+.../patient64809/study1/view1_frontal.jpg,"[1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",['No Finding']
+.../patient64809/study1/view2_frontal.jpg,"[1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",['No Finding']
+.../patient64809/study1/view3_lateral.jpg,"[1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",['No Finding']
+.../patient64810/study1/view1_frontal.jpg,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1]",['Support Devices']
+.../patient64811/study1/view1_frontal.jpg,"[1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",['No Finding']
+.../patient64811/study1/view2_lateral.jpg,"[1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",['No Finding']
+.../patient64812/study1/view1_frontal.jpg,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",[]
+.../patient64812/study1/view2_frontal.jpg,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",[]
+.../patient64812/study1/view3_lateral.jpg,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",[]
+.../patient64813/study1/view1_frontal.jpg,"[0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]","['Enlarged Cardiomediastinum', 'Lung Opacity']"
+.../patient64814/study1/view1_frontal.jpg,"[1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",['No Finding']
+.../patient64814/study1/view2_lateral.jpg,"[1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",['No Finding']
+.../patient64815/study1/view1_frontal.jpg,"[0, 1, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0]","['Enlarged Cardiomediastinum', 'Cardiomegaly', 'Lung Opacity', 'Atelectasis']"
+.../patient64816/study1/view1_frontal.jpg,"[0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",['Lung Opacity']
+.../patient64817/study1/view1_frontal.jpg,"[0, 1, 1, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1]","['Enlarged Cardiomediastinum', 'Cardiomegaly', 'Lung Opacity', 'Edema', 'Support Devices']"
+.../patient64818/study1/view1_frontal.jpg,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1]",['Support Devices']
+.../patient64819/study1/view1_frontal.jpg,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1]",['Support Devices']
+.../patient64819/study1/view2_lateral.jpg,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1]",['Support Devices']
+.../patient64820/study1/view1_frontal.jpg,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1]",['Support Devices']
+.../patient64821/study1/view1_frontal.jpg,"[0, 1, 1, 1, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0]","['Enlarged Cardiomediastinum', 'Cardiomegaly', 'Lung Opacity', 'Edema', 'Atelectasis']"
+.../patient64822/study1/view1_frontal.jpg,"[1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",['No Finding']
+.../patient64823/study1/view1_frontal.jpg,"[0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1]","['Enlarged Cardiomediastinum', 'Cardiomegaly', 'Support Devices']"
+.../patient64824/study1/view1_frontal.jpg,"[0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0]","['Lung Opacity', 'Pleural Effusion']"
+.../patient64825/study1/view1_frontal.jpg,"[1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",['No Finding']
+.../patient64826/study1/view1_frontal.jpg,"[0, 1, 1, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1]","['Enlarged Cardiomediastinum', 'Cardiomegaly', 'Lung Opacity', 'Edema', 'Support Devices']"
+.../patient64827/study1/view1_frontal.jpg,"[0, 1, 1, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1]","['Enlarged Cardiomediastinum', 'Cardiomegaly', 'Lung Opacity', 'Edema', 'Support Devices']"
+.../patient64827/study1/view2_frontal.jpg,"[0, 1, 1, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1]","['Enlarged Cardiomediastinum', 'Cardiomegaly', 'Lung Opacity', 'Edema', 'Support Devices']"
+.../patient64828/study1/view1_frontal.jpg,"[0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",['Lung Opacity']
+.../patient64828/study1/view2_lateral.jpg,"[0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",['Lung Opacity']
+.../patient64829/study1/view1_frontal.jpg,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",[]
+.../patient64830/study1/view1_frontal.jpg,"[0, 1, 1, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 1]","['Enlarged Cardiomediastinum', 'Cardiomegaly', 'Lung Opacity', 'Pleural Effusion', 'Support Devices']"
+.../patient64831/study1/view1_frontal.jpg,"[0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]","['Enlarged Cardiomediastinum', 'Cardiomegaly']"
+.../patient64832/study1/view1_frontal.jpg,"[0, 1, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0]","['Enlarged Cardiomediastinum', 'Lung Opacity', 'Atelectasis']"
+.../patient64832/study1/view2_lateral.jpg,"[0, 1, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0]","['Enlarged Cardiomediastinum', 'Lung Opacity', 'Atelectasis']"
+.../patient64833/study1/view1_frontal.jpg,"[0, 1, 1, 1, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0]","['Enlarged Cardiomediastinum', 'Cardiomegaly', 'Lung Opacity', 'Edema', 'Pleural Effusion']"
+.../patient64834/study1/view1_frontal.jpg,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1]",['Support Devices']
+.../patient64834/study1/view2_lateral.jpg,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1]",['Support Devices']
+.../patient64835/study1/view1_frontal.jpg,"[0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0]","['Lung Opacity', 'Edema', 'Fracture']"
+.../patient64835/study1/view2_lateral.jpg,"[0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0]","['Lung Opacity', 'Edema', 'Fracture']"
+.../patient64836/study1/view1_frontal.jpg,"[1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",['No Finding']
+.../patient64836/study1/view2_lateral.jpg,"[1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",['No Finding']
+.../patient64837/study1/view1_frontal.jpg,"[0, 1, 0, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1]","['Enlarged Cardiomediastinum', 'Lung Opacity', 'Pneumothorax', 'Support Devices']"
+.../patient64838/study1/view1_frontal.jpg,"[0, 1, 1, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1]","['Enlarged Cardiomediastinum', 'Cardiomegaly', 'Lung Opacity', 'Edema', 'Support Devices']"
+.../patient64838/study1/view2_lateral.jpg,"[0, 1, 1, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1]","['Enlarged Cardiomediastinum', 'Cardiomegaly', 'Lung Opacity', 'Edema', 'Support Devices']"
+.../patient64839/study1/view1_frontal.jpg,"[0, 1, 1, 1, 0, 0, 0, 0, 1, 0, 1, 0, 0, 1]","['Enlarged Cardiomediastinum', 'Cardiomegaly', 'Lung Opacity', 'Atelectasis', 'Pleural Effusion', 'Support Devices']"
+.../patient64840/study1/view1_frontal.jpg,"[1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",['No Finding']
+.../patient64840/study1/view2_lateral.jpg,"[1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",['No Finding']
+.../patient64841/study1/view1_frontal.jpg,"[0, 1, 1, 1, 0, 1, 0, 0, 1, 0, 0, 0, 0, 1]","['Enlarged Cardiomediastinum', 'Cardiomegaly', 'Lung Opacity', 'Edema', 'Atelectasis', 'Support Devices']"
+.../patient64842/study1/view1_frontal.jpg,"[0, 1, 1, 1, 0, 0, 1, 0, 1, 0, 1, 0, 0, 0]","['Enlarged Cardiomediastinum', 'Cardiomegaly', 'Lung Opacity', 'Consolidation', 'Atelectasis', 'Pleural Effusion']"
+.../patient64843/study1/view1_frontal.jpg,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1]",['Support Devices']
+.../patient64844/study1/view1_frontal.jpg,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",[]
+.../patient64844/study1/view2_lateral.jpg,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",[]
+.../patient64844/study1/view3_lateral.jpg,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",[]
+.../patient64845/study1/view1_frontal.jpg,"[0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1]","['Enlarged Cardiomediastinum', 'Lung Opacity', 'Support Devices']"
+.../patient64846/study1/view1_frontal.jpg,"[1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",['No Finding']
+.../patient64846/study1/view2_lateral.jpg,"[1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",['No Finding']
+.../patient64847/study1/view1_frontal.jpg,"[0, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]","['Enlarged Cardiomediastinum', 'Cardiomegaly', 'Lung Opacity']"
+.../patient64848/study1/view1_frontal.jpg,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1]",['Support Devices']
+.../patient64849/study1/view1_frontal.jpg,"[0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1]","['Enlarged Cardiomediastinum', 'Cardiomegaly', 'Support Devices']"
+.../patient64849/study1/view2_lateral.jpg,"[0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1]","['Enlarged Cardiomediastinum', 'Cardiomegaly', 'Support Devices']"
+.../patient64850/study1/view1_frontal.jpg,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1]",['Support Devices']
+.../patient64850/study1/view2_lateral.jpg,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1]",['Support Devices']
+.../patient64851/study1/view1_frontal.jpg,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1]",['Support Devices']
+.../patient64852/study1/view1_frontal.jpg,"[0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1]","['Lung Opacity', 'Atelectasis', 'Support Devices']"
+.../patient64853/study1/view1_frontal.jpg,"[0, 1, 1, 1, 0, 0, 1, 0, 0, 0, 1, 0, 0, 1]","['Enlarged Cardiomediastinum', 'Cardiomegaly', 'Lung Opacity', 'Consolidation', 'Pleural Effusion', 'Support Devices']"
+.../patient64853/study1/view2_lateral.jpg,"[0, 1, 1, 1, 0, 0, 1, 0, 0, 0, 1, 0, 0, 1]","['Enlarged Cardiomediastinum', 'Cardiomegaly', 'Lung Opacity', 'Consolidation', 'Pleural Effusion', 'Support Devices']"
+.../patient64854/study1/view1_frontal.jpg,"[0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0]","['Enlarged Cardiomediastinum', 'Cardiomegaly', 'Pleural Effusion']"
+.../patient64855/study1/view1_frontal.jpg,"[1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",['No Finding']
+.../patient64855/study1/view2_lateral.jpg,"[1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",['No Finding']
+.../patient64856/study1/view1_frontal.jpg,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",[]
+.../patient64856/study1/view2_lateral.jpg,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",[]
+.../patient64857/study1/view1_frontal.jpg,"[1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",['No Finding']
+.../patient64857/study1/view2_lateral.jpg,"[1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",['No Finding']
+.../patient64858/study1/view1_frontal.jpg,"[0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1]","['Enlarged Cardiomediastinum', 'Pneumothorax', 'Support Devices']"
+.../patient64859/study1/view1_frontal.jpg,"[1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",['No Finding']
+.../patient64859/study1/view2_lateral.jpg,"[1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",['No Finding']
+.../patient64860/study1/view1_frontal.jpg,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0]",['Pleural Other']
+.../patient64860/study1/view2_lateral.jpg,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0]",['Pleural Other']
+.../patient64861/study1/view1_frontal.jpg,"[0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]","['Enlarged Cardiomediastinum', 'Cardiomegaly']"
+.../patient64862/study1/view1_frontal.jpg,"[0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1]","['Enlarged Cardiomediastinum', 'Cardiomegaly', 'Support Devices']"
+.../patient64862/study1/view2_lateral.jpg,"[0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1]","['Enlarged Cardiomediastinum', 'Cardiomegaly', 'Support Devices']"
+.../patient64863/study1/view1_frontal.jpg,"[0, 1, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1]","['Enlarged Cardiomediastinum', 'Lung Opacity', 'Atelectasis', 'Support Devices']"
+.../patient64864/study1/view1_frontal.jpg,"[0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 1]","['Enlarged Cardiomediastinum', 'Cardiomegaly', 'Pleural Effusion', 'Support Devices']"
+.../patient64864/study1/view2_lateral.jpg,"[0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 1]","['Enlarged Cardiomediastinum', 'Cardiomegaly', 'Pleural Effusion', 'Support Devices']"
+.../patient64865/study1/view1_frontal.jpg,"[0, 0, 0, 1, 0, 0, 1, 1, 1, 0, 1, 0, 0, 1]","['Lung Opacity', 'Consolidation', 'Pneumonia', 'Atelectasis', 'Pleural Effusion', 'Support Devices']"
+.../patient64866/study1/view1_frontal.jpg,"[0, 1, 1, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1]","['Enlarged Cardiomediastinum', 'Cardiomegaly', 'Lung Opacity', 'Edema', 'Support Devices']"
+.../patient64867/study1/view1_frontal.jpg,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1]",['Support Devices']
+.../patient64868/study1/view1_frontal.jpg,"[1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",['No Finding']
+.../patient64869/study1/view1_frontal.jpg,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1]",['Support Devices']
+.../patient64869/study1/view2_lateral.jpg,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1]",['Support Devices']
+.../patient64870/study1/view1_frontal.jpg,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1]",['Support Devices']
+.../patient64870/study1/view2_frontal.jpg,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1]",['Support Devices']
+.../patient64870/study1/view3_lateral.jpg,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1]",['Support Devices']
+.../patient64871/study1/view1_frontal.jpg,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",[]
+.../patient64872/study1/view1_frontal.jpg,"[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",['Enlarged Cardiomediastinum']
+.../patient64872/study1/view2_lateral.jpg,"[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",['Enlarged Cardiomediastinum']
+.../patient64873/study1/view1_frontal.jpg,"[0, 1, 1, 1, 0, 1, 1, 0, 1, 0, 1, 0, 0, 1]","['Enlarged Cardiomediastinum', 'Cardiomegaly', 'Lung Opacity', 'Edema', 'Consolidation', 'Atelectasis', 'Pleural Effusion', 'Support Devices']"
+.../patient64874/study1/view1_frontal.jpg,"[1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",['No Finding']
+.../patient64874/study1/view2_lateral.jpg,"[1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",['No Finding']
+.../patient64875/study1/view1_frontal.jpg,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1]",['Support Devices']
+.../patient64875/study1/view2_lateral.jpg,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1]",['Support Devices']
+.../patient64876/study1/view1_frontal.jpg,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1]",['Support Devices']
+.../patient64876/study1/view2_lateral.jpg,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1]",['Support Devices']
+.../patient64877/study1/view1_frontal.jpg,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1]",['Support Devices']
+.../patient64877/study1/view2_lateral.jpg,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1]",['Support Devices']
+.../patient64878/study1/view1_frontal.jpg,"[0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1]","['Lung Opacity', 'Lung Lesion', 'Support Devices']"
+.../patient64878/study1/view2_lateral.jpg,"[0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1]","['Lung Opacity', 'Lung Lesion', 'Support Devices']"
+.../patient64879/study1/view1_frontal.jpg,"[0, 1, 1, 1, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0]","['Enlarged Cardiomediastinum', 'Cardiomegaly', 'Lung Opacity', 'Atelectasis', 'Pleural Effusion']"
+.../patient64879/study1/view2_lateral.jpg,"[0, 1, 1, 1, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0]","['Enlarged Cardiomediastinum', 'Cardiomegaly', 'Lung Opacity', 'Atelectasis', 'Pleural Effusion']"
+.../patient64880/study1/view1_frontal.jpg,"[1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",['No Finding']
+.../patient64881/study1/view1_frontal.jpg,"[0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 1, 0, 0, 1]","['Lung Opacity', 'Atelectasis', 'Pleural Effusion', 'Support Devices']"
+.../patient64882/study1/view1_frontal.jpg,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",[]
+.../patient64883/study1/view1_frontal.jpg,"[0, 1, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1]","['Enlarged Cardiomediastinum', 'Cardiomegaly', 'Lung Opacity', 'Atelectasis', 'Support Devices']"
+.../patient64884/study1/view1_frontal.jpg,"[0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0]","['Lung Opacity', 'Atelectasis']"
+.../patient64884/study1/view2_lateral.jpg,"[0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0]","['Lung Opacity', 'Atelectasis']"
+.../patient64885/study1/view1_frontal.jpg,"[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 1]","['Enlarged Cardiomediastinum', 'Pleural Effusion', 'Support Devices']"
+.../patient64886/study1/view1_frontal.jpg,"[1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",['No Finding']
+.../patient64886/study1/view2_frontal.jpg,"[1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",['No Finding']
+.../patient64886/study1/view3_lateral.jpg,"[1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",['No Finding']
+.../patient64887/study1/view1_frontal.jpg,"[0, 1, 1, 1, 0, 0, 0, 0, 1, 0, 1, 0, 0, 1]","['Enlarged Cardiomediastinum', 'Cardiomegaly', 'Lung Opacity', 'Atelectasis', 'Pleural Effusion', 'Support Devices']"
+.../patient64887/study1/view2_lateral.jpg,"[0, 1, 1, 1, 0, 0, 0, 0, 1, 0, 1, 0, 0, 1]","['Enlarged Cardiomediastinum', 'Cardiomegaly', 'Lung Opacity', 'Atelectasis', 'Pleural Effusion', 'Support Devices']"
+.../patient64888/study1/view1_frontal.jpg,"[0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",['Lung Opacity']
+.../patient64889/study1/view1_frontal.jpg,"[0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]","['Enlarged Cardiomediastinum', 'Cardiomegaly']"
+.../patient64889/study1/view2_lateral.jpg,"[0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]","['Enlarged Cardiomediastinum', 'Cardiomegaly']"
+.../patient64890/study1/view1_frontal.jpg,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1]",['Support Devices']
+.../patient64891/study1/view1_frontal.jpg,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 1]","['Pleural Effusion', 'Support Devices']"
+.../patient64891/study1/view2_lateral.jpg,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 1]","['Pleural Effusion', 'Support Devices']"
+.../patient64892/study1/view1_frontal.jpg,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1]",['Support Devices']
+.../patient64892/study1/view2_lateral.jpg,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1]",['Support Devices']
+.../patient64893/study1/view1_frontal.jpg,"[0, 1, 1, 1, 0, 1, 1, 0, 1, 0, 1, 0, 0, 1]","['Enlarged Cardiomediastinum', 'Cardiomegaly', 'Lung Opacity', 'Edema', 'Consolidation', 'Atelectasis', 'Pleural Effusion', 'Support Devices']"
+.../patient64894/study1/view1_frontal.jpg,"[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",['Enlarged Cardiomediastinum']
+.../patient64894/study1/view2_lateral.jpg,"[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",['Enlarged Cardiomediastinum']
+.../patient64895/study1/view1_frontal.jpg,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1]",['Support Devices']
+.../patient64895/study1/view2_lateral.jpg,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1]",['Support Devices']
+.../patient64896/study1/view1_frontal.jpg,"[0, 1, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1]","['Enlarged Cardiomediastinum', 'Cardiomegaly', 'Lung Opacity', 'Atelectasis', 'Support Devices']"
+.../patient64897/study1/view1_frontal.jpg,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1]",['Support Devices']
+.../patient64898/study1/view1_frontal.jpg,"[0, 1, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0]","['Enlarged Cardiomediastinum', 'Lung Opacity', 'Edema']"
+.../patient64899/study1/view1_frontal.jpg,"[0, 1, 1, 1, 0, 1, 0, 0, 1, 0, 1, 0, 0, 0]","['Enlarged Cardiomediastinum', 'Cardiomegaly', 'Lung Opacity', 'Edema', 'Atelectasis', 'Pleural Effusion']"
+.../patient64900/study1/view1_frontal.jpg,"[0, 1, 1, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1]","['Enlarged Cardiomediastinum', 'Cardiomegaly', 'Lung Opacity', 'Edema', 'Support Devices']"
+.../patient64901/study1/view1_frontal.jpg,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1]",['Support Devices']
+.../patient64902/study1/view1_frontal.jpg,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",[]
+.../patient64902/study1/view2_lateral.jpg,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",[]
+.../patient64903/study1/view1_frontal.jpg,"[0, 1, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0]","['Enlarged Cardiomediastinum', 'Lung Opacity', 'Atelectasis']"
+.../patient64904/study1/view1_frontal.jpg,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1]","['Pneumothorax', 'Support Devices']"
+.../patient64905/study1/view1_frontal.jpg,"[1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",['No Finding']
+.../patient64905/study1/view2_frontal.jpg,"[1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",['No Finding']
+.../patient64905/study1/view3_lateral.jpg,"[1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",['No Finding']
+.../patient64906/study1/view1_frontal.jpg,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1]",['Support Devices']
+.../patient64907/study1/view1_frontal.jpg,"[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",['Enlarged Cardiomediastinum']
+.../patient64907/study1/view2_lateral.jpg,"[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",['Enlarged Cardiomediastinum']
+.../patient64908/study1/view1_frontal.jpg,"[0, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]","['Enlarged Cardiomediastinum', 'Cardiomegaly', 'Lung Opacity']"
+.../patient64909/study1/view1_frontal.jpg,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",[]
+.../patient64910/study1/view1_frontal.jpg,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1]",['Support Devices']
+.../patient64910/study1/view2_lateral.jpg,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1]",['Support Devices']
+.../patient64911/study1/view1_frontal.jpg,"[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",['Enlarged Cardiomediastinum']
+.../patient64912/study1/view1_frontal.jpg,"[0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0]","['Lung Opacity', 'Edema']"
+.../patient64913/study1/view1_frontal.jpg,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1]",['Support Devices']
+.../patient64913/study1/view2_lateral.jpg,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1]",['Support Devices']
+.../patient64914/study1/view1_frontal.jpg,"[1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",['No Finding']
+.../patient64915/study1/view1_frontal.jpg,"[1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",['No Finding']
+.../patient64915/study1/view2_lateral.jpg,"[1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",['No Finding']
+.../patient64916/study1/view1_frontal.jpg,"[0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1]","['Enlarged Cardiomediastinum', 'Lung Opacity', 'Support Devices']"
+.../patient64916/study1/view2_lateral.jpg,"[0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1]","['Enlarged Cardiomediastinum', 'Lung Opacity', 'Support Devices']"
+.../patient64917/study1/view1_frontal.jpg,"[0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]","['Enlarged Cardiomediastinum', 'Cardiomegaly']"
+.../patient64918/study1/view1_frontal.jpg,"[0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0]","['Lung Opacity', 'Atelectasis']"
+.../patient64918/study1/view2_lateral.jpg,"[0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0]","['Lung Opacity', 'Atelectasis']"
+.../patient64919/study1/view1_frontal.jpg,"[1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",['No Finding']
+.../patient64920/study1/view1_frontal.jpg,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1]",['Support Devices']
+.../patient64921/study1/view1_frontal.jpg,"[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",['Enlarged Cardiomediastinum']
+.../patient64921/study1/view2_lateral.jpg,"[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",['Enlarged Cardiomediastinum']
+.../patient64922/study1/view1_frontal.jpg,"[0, 1, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1]","['Enlarged Cardiomediastinum', 'Lung Opacity', 'Edema', 'Support Devices']"
+.../patient64923/study1/view1_frontal.jpg,"[1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",['No Finding']
+.../patient64923/study1/view2_lateral.jpg,"[1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",['No Finding']
+.../patient64924/study1/view1_frontal.jpg,"[0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1]","['Enlarged Cardiomediastinum', 'Lung Opacity', 'Support Devices']"
+.../patient64925/study1/view1_frontal.jpg,"[1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",['No Finding']
+.../patient64926/study1/view1_frontal.jpg,"[1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",['No Finding']
+.../patient64926/study1/view2_lateral.jpg,"[1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",['No Finding']
+.../patient64927/study1/view1_frontal.jpg,"[0, 1, 0, 1, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0]","['Enlarged Cardiomediastinum', 'Lung Opacity', 'Atelectasis', 'Pleural Effusion']"
+.../patient64928/study1/view1_frontal.jpg,"[1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",['No Finding']
+.../patient64928/study1/view2_lateral.jpg,"[1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",['No Finding']
+.../patient64929/study1/view1_frontal.jpg,"[0, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1]","['Enlarged Cardiomediastinum', 'Cardiomegaly', 'Lung Opacity', 'Support Devices']"
+.../patient64930/study1/view1_frontal.jpg,"[0, 1, 1, 1, 0, 0, 0, 0, 1, 0, 1, 0, 0, 1]","['Enlarged Cardiomediastinum', 'Cardiomegaly', 'Lung Opacity', 'Atelectasis', 'Pleural Effusion', 'Support Devices']"
+.../patient64931/study1/view1_frontal.jpg,"[0, 1, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1]","['Enlarged Cardiomediastinum', 'Cardiomegaly', 'Lung Opacity', 'Atelectasis', 'Support Devices']"
+.../patient64932/study1/view1_frontal.jpg,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1]",['Support Devices']
+.../patient64933/study1/view1_frontal.jpg,"[1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",['No Finding']
+.../patient64933/study1/view2_lateral.jpg,"[1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",['No Finding']
+.../patient64934/study1/view1_frontal.jpg,"[0, 1, 1, 1, 0, 0, 0, 0, 1, 0, 1, 0, 0, 1]","['Enlarged Cardiomediastinum', 'Cardiomegaly', 'Lung Opacity', 'Atelectasis', 'Pleural Effusion', 'Support Devices']"
+.../patient64935/study1/view1_frontal.jpg,"[0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",['Lung Opacity']
+.../patient64936/study1/view1_frontal.jpg,"[0, 1, 1, 1, 0, 0, 0, 0, 1, 0, 1, 0, 0, 1]","['Enlarged Cardiomediastinum', 'Cardiomegaly', 'Lung Opacity', 'Atelectasis', 'Pleural Effusion', 'Support Devices']"
+.../patient64937/study1/view1_frontal.jpg,"[0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",['Lung Opacity']
+.../patient64938/study1/view1_frontal.jpg,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1]","['Pneumothorax', 'Support Devices']"
+.../patient64939/study1/view1_frontal.jpg,"[0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0]","['Lung Opacity', 'Edema']"
+.../patient64940/study1/view1_frontal.jpg,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1]",['Support Devices']
+.../patient64940/study1/view2_lateral.jpg,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1]",['Support Devices']
+.../patient64941/study1/view1_frontal.jpg,"[0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]","['Enlarged Cardiomediastinum', 'Cardiomegaly']"
+.../patient64942/study1/view1_frontal.jpg,"[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1]","['Enlarged Cardiomediastinum', 'Support Devices']"
+.../patient64943/study1/view1_frontal.jpg,"[1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",['No Finding']
+.../patient64943/study1/view2_frontal.jpg,"[1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",['No Finding']
+.../patient64944/study1/view1_frontal.jpg,"[0, 1, 0, 1, 0, 0, 1, 1, 0, 0, 1, 0, 0, 1]","['Enlarged Cardiomediastinum', 'Lung Opacity', 'Consolidation', 'Pneumonia', 'Pleural Effusion', 'Support Devices']"
+.../patient64945/study1/view1_frontal.jpg,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",[]
+.../patient64945/study1/view2_lateral.jpg,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",[]
+.../patient64946/study1/view1_frontal.jpg,"[0, 1, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1]","['Enlarged Cardiomediastinum', 'Cardiomegaly', 'Lung Opacity', 'Atelectasis', 'Support Devices']"
+.../patient64947/study1/view1_frontal.jpg,"[0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1]","['Enlarged Cardiomediastinum', 'Lung Opacity', 'Support Devices']"
+.../patient64948/study1/view1_frontal.jpg,"[0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]","['Enlarged Cardiomediastinum', 'Cardiomegaly']"
+.../patient64948/study1/view2_lateral.jpg,"[0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]","['Enlarged Cardiomediastinum', 'Cardiomegaly']"
+.../patient64949/study1/view1_frontal.jpg,"[0, 1, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1]","['Enlarged Cardiomediastinum', 'Cardiomegaly', 'Lung Opacity', 'Atelectasis', 'Support Devices']"
+.../patient64949/study1/view2_frontal.jpg,"[0, 1, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1]","['Enlarged Cardiomediastinum', 'Cardiomegaly', 'Lung Opacity', 'Atelectasis', 'Support Devices']"
+.../patient64950/study1/view1_frontal.jpg,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",[]
+.../patient64951/study1/view1_frontal.jpg,"[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1]","['Enlarged Cardiomediastinum', 'Support Devices']"
+.../patient64951/study1/view2_lateral.jpg,"[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1]","['Enlarged Cardiomediastinum', 'Support Devices']"
+.../patient64952/study1/view1_frontal.jpg,"[0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 1, 0, 0, 1]","['Lung Opacity', 'Atelectasis', 'Pleural Effusion', 'Support Devices']"
+.../patient64952/study1/view2_lateral.jpg,"[0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 1, 0, 0, 1]","['Lung Opacity', 'Atelectasis', 'Pleural Effusion', 'Support Devices']"
+.../patient64953/study1/view1_frontal.jpg,"[0, 1, 1, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1]","['Enlarged Cardiomediastinum', 'Cardiomegaly', 'Lung Opacity', 'Edema', 'Support Devices']"
+.../patient64954/study1/view1_frontal.jpg,"[0, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]","['Enlarged Cardiomediastinum', 'Cardiomegaly', 'Lung Opacity']"
+.../patient64955/study1/view1_frontal.jpg,"[1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",['No Finding']
+.../patient64955/study1/view2_lateral.jpg,"[1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",['No Finding']
+.../patient64956/study1/view1_frontal.jpg,"[1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",['No Finding']
+.../patient64956/study1/view2_lateral.jpg,"[1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",['No Finding']
+.../patient64957/study1/view1_frontal.jpg,"[1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",['No Finding']
+.../patient64957/study1/view2_lateral.jpg,"[1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",['No Finding']
+.../patient64958/study1/view1_frontal.jpg,"[0, 1, 1, 1, 0, 1, 0, 0, 1, 0, 0, 0, 0, 1]","['Enlarged Cardiomediastinum', 'Cardiomegaly', 'Lung Opacity', 'Edema', 'Atelectasis', 'Support Devices']"
+.../patient64959/study1/view1_frontal.jpg,"[0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",['Lung Opacity']
+.../patient64959/study1/view2_lateral.jpg,"[0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",['Lung Opacity']
+.../patient64960/study1/view1_frontal.jpg,"[0, 1, 1, 1, 0, 1, 0, 0, 1, 0, 1, 0, 0, 0]","['Enlarged Cardiomediastinum', 'Cardiomegaly', 'Lung Opacity', 'Edema', 'Atelectasis', 'Pleural Effusion']"
+.../patient64961/study1/view1_frontal.jpg,"[0, 1, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1]","['Enlarged Cardiomediastinum', 'Cardiomegaly', 'Lung Opacity', 'Atelectasis', 'Support Devices']"
+.../patient64962/study1/view1_frontal.jpg,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1]",['Support Devices']
+.../patient64963/study1/view1_frontal.jpg,"[0, 1, 0, 1, 0, 1, 1, 0, 1, 0, 0, 0, 0, 1]","['Enlarged Cardiomediastinum', 'Lung Opacity', 'Edema', 'Consolidation', 'Atelectasis', 'Support Devices']"
+.../patient64964/study1/view1_frontal.jpg,"[0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1]","['Enlarged Cardiomediastinum', 'Cardiomegaly', 'Support Devices']"
+.../patient64964/study1/view2_lateral.jpg,"[0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1]","['Enlarged Cardiomediastinum', 'Cardiomegaly', 'Support Devices']"
+.../patient64965/study1/view1_frontal.jpg,"[0, 1, 1, 1, 0, 0, 1, 0, 1, 0, 1, 0, 0, 1]","['Enlarged Cardiomediastinum', 'Cardiomegaly', 'Lung Opacity', 'Consolidation', 'Atelectasis', 'Pleural Effusion', 'Support Devices']"
+.../patient64966/study1/view1_frontal.jpg,"[0, 1, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0]","['Enlarged Cardiomediastinum', 'Lung Opacity', 'Edema', 'Fracture']"
+.../patient64967/study1/view1_frontal.jpg,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",[]
+.../patient64967/study1/view2_lateral.jpg,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",[]
+.../patient64968/study1/view1_frontal.jpg,"[0, 1, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0]","['Enlarged Cardiomediastinum', 'Cardiomegaly', 'Lung Opacity', 'Atelectasis']"
+.../patient64969/study1/view1_frontal.jpg,"[0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]","['Enlarged Cardiomediastinum', 'Cardiomegaly']"
+.../patient64969/study1/view2_lateral.jpg,"[0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]","['Enlarged Cardiomediastinum', 'Cardiomegaly']"
+.../patient64969/study1/view3_lateral.jpg,"[0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]","['Enlarged Cardiomediastinum', 'Cardiomegaly']"
+.../patient64970/study1/view1_frontal.jpg,"[0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1]","['Enlarged Cardiomediastinum', 'Cardiomegaly', 'Support Devices']"
+.../patient64970/study1/view2_frontal.jpg,"[0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1]","['Enlarged Cardiomediastinum', 'Cardiomegaly', 'Support Devices']"
+.../patient64971/study1/view1_frontal.jpg,"[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1]","['Enlarged Cardiomediastinum', 'Support Devices']"
+.../patient64972/study1/view1_frontal.jpg,"[1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",['No Finding']
+.../patient64972/study1/view2_lateral.jpg,"[1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",['No Finding']
+.../patient64973/study1/view1_frontal.jpg,"[0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 1, 0, 0, 1]","['Lung Opacity', 'Atelectasis', 'Pleural Effusion', 'Support Devices']"
+.../patient64974/study1/view1_frontal.jpg,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",[]
+.../patient64975/study1/view1_frontal.jpg,"[0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0]","['Lung Opacity', 'Atelectasis', 'Pleural Effusion']"
+.../patient64976/study1/view1_frontal.jpg,"[1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",['No Finding']
+.../patient64976/study1/view2_lateral.jpg,"[1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",['No Finding']
+.../patient64977/study1/view1_frontal.jpg,"[0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0]","['Lung Opacity', 'Edema']"
+.../patient64978/study1/view1_frontal.jpg,"[1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",['No Finding']
+.../patient64978/study1/view2_lateral.jpg,"[1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",['No Finding']
+.../patient64979/study1/view1_frontal.jpg,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",[]
+.../patient64980/study1/view1_frontal.jpg,"[0, 1, 1, 1, 0, 0, 1, 0, 1, 0, 1, 0, 0, 1]","['Enlarged Cardiomediastinum', 'Cardiomegaly', 'Lung Opacity', 'Consolidation', 'Atelectasis', 'Pleural Effusion', 'Support Devices']"
+.../patient64980/study1/view2_lateral.jpg,"[0, 1, 1, 1, 0, 0, 1, 0, 1, 0, 1, 0, 0, 1]","['Enlarged Cardiomediastinum', 'Cardiomegaly', 'Lung Opacity', 'Consolidation', 'Atelectasis', 'Pleural Effusion', 'Support Devices']"
+.../patient64981/study1/view1_frontal.jpg,"[1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",['No Finding']
+.../patient64981/study1/view2_lateral.jpg,"[1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",['No Finding']
+.../patient64982/study1/view1_frontal.jpg,"[0, 0, 0, 1, 0, 0, 1, 1, 1, 1, 1, 0, 0, 1]","['Lung Opacity', 'Consolidation', 'Pneumonia', 'Atelectasis', 'Pneumothorax', 'Pleural Effusion', 'Support Devices']"
+.../patient64982/study1/view2_lateral.jpg,"[0, 0, 0, 1, 0, 0, 1, 1, 1, 1, 1, 0, 0, 1]","['Lung Opacity', 'Consolidation', 'Pneumonia', 'Atelectasis', 'Pneumothorax', 'Pleural Effusion', 'Support Devices']"
+.../patient64983/study1/view1_frontal.jpg,"[0, 1, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1]","['Enlarged Cardiomediastinum', 'Cardiomegaly', 'Lung Opacity', 'Atelectasis', 'Support Devices']"
+.../patient64984/study1/view1_frontal.jpg,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",[]
+.../patient64985/study1/view1_frontal.jpg,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1]",['Support Devices']
+.../patient64985/study1/view2_lateral.jpg,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1]",['Support Devices']
+.../patient64986/study1/view1_frontal.jpg,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",[]
+.../patient64986/study1/view2_frontal.jpg,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",[]
+.../patient64986/study1/view3_lateral.jpg,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",[]
+.../patient64987/study1/view1_frontal.jpg,"[0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1]","['Lung Opacity', 'Pneumothorax', 'Support Devices']"
+.../patient64988/study1/view1_frontal.jpg,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",[]
+.../patient64989/study1/view1_frontal.jpg,"[1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",['No Finding']
+.../patient64989/study1/view2_lateral.jpg,"[1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",['No Finding']
+.../patient64990/study1/view1_frontal.jpg,"[1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",['No Finding']
+.../patient64990/study1/view2_lateral.jpg,"[1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",['No Finding']
+.../patient64991/study1/view1_frontal.jpg,"[0, 1, 1, 1, 0, 0, 0, 0, 1, 0, 1, 0, 0, 1]","['Enlarged Cardiomediastinum', 'Cardiomegaly', 'Lung Opacity', 'Atelectasis', 'Pleural Effusion', 'Support Devices']"
+.../patient64992/study1/view1_frontal.jpg,"[0, 1, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0]","['Enlarged Cardiomediastinum', 'Cardiomegaly', 'Lung Opacity', 'Atelectasis']"
+.../patient64993/study1/view1_frontal.jpg,"[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1]","['Enlarged Cardiomediastinum', 'Support Devices']"
+.../patient64994/study1/view1_frontal.jpg,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",[]
+.../patient64994/study1/view2_lateral.jpg,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",[]
+.../patient64995/study1/view1_frontal.jpg,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1]",['Support Devices']
+.../patient64996/study1/view1_frontal.jpg,"[1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",['No Finding']
+.../patient64996/study1/view2_lateral.jpg,"[1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",['No Finding']
+.../patient64997/study1/view1_frontal.jpg,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",[]
+.../patient64997/study1/view2_lateral.jpg,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",[]
+.../patient64998/study1/view1_frontal.jpg,"[0, 1, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0]","['Enlarged Cardiomediastinum', 'Lung Opacity', 'Atelectasis']"
+.../patient64998/study1/view2_lateral.jpg,"[0, 1, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0]","['Enlarged Cardiomediastinum', 'Lung Opacity', 'Atelectasis']"
+.../patient64999/study1/view1_frontal.jpg,"[0, 1, 0, 1, 0, 0, 0, 0, 1, 0, 0, 1, 0, 0]","['Enlarged Cardiomediastinum', 'Lung Opacity', 'Atelectasis', 'Pleural Other']"
+.../patient64999/study1/view2_lateral.jpg,"[0, 1, 0, 1, 0, 0, 0, 0, 1, 0, 0, 1, 0, 0]","['Enlarged Cardiomediastinum', 'Lung Opacity', 'Atelectasis', 'Pleural Other']"
+.../patient65000/study1/view1_frontal.jpg,"[0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",['Lung Opacity']
+.../patient65001/study1/view1_frontal.jpg,"[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",['Enlarged Cardiomediastinum']
+.../patient65002/study1/view1_frontal.jpg,"[1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",['No Finding']
+.../patient65002/study1/view2_lateral.jpg,"[1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",['No Finding']
+.../patient65003/study1/view1_frontal.jpg,"[1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",['No Finding']
+.../patient65003/study1/view2_lateral.jpg,"[1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",['No Finding']
+.../patient65004/study1/view1_frontal.jpg,"[0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]","['Enlarged Cardiomediastinum', 'Cardiomegaly']"
+.../patient65005/study1/view1_frontal.jpg,"[0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]","['Enlarged Cardiomediastinum', 'Cardiomegaly']"
+.../patient65006/study1/view1_frontal.jpg,"[1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",['No Finding']
+.../patient65006/study1/view2_lateral.jpg,"[1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",['No Finding']
+.../patient65007/study1/view1_frontal.jpg,"[0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1]","['Lung Opacity', 'Atelectasis', 'Support Devices']"
+.../patient65008/study1/view1_frontal.jpg,"[0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1]","['Lung Opacity', 'Support Devices']"
+.../patient65008/study1/view2_lateral.jpg,"[0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1]","['Lung Opacity', 'Support Devices']"
+.../patient65009/study1/view1_frontal.jpg,"[1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",['No Finding']
+.../patient65009/study1/view2_lateral.jpg,"[1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",['No Finding']
+.../patient65010/study1/view1_frontal.jpg,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",[]
+.../patient65010/study1/view2_lateral.jpg,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",[]
+.../patient65010/study1/view3_lateral.jpg,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",[]
+.../patient65011/study1/view1_frontal.jpg,"[0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1]","['Lung Opacity', 'Support Devices']"
+.../patient65011/study1/view2_frontal.jpg,"[0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1]","['Lung Opacity', 'Support Devices']"
+.../patient65012/study1/view1_frontal.jpg,"[0, 1, 0, 1, 0, 0, 0, 0, 1, 0, 1, 0, 0, 1]","['Enlarged Cardiomediastinum', 'Lung Opacity', 'Atelectasis', 'Pleural Effusion', 'Support Devices']"
+.../patient65013/study1/view1_frontal.jpg,"[1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",['No Finding']
+.../patient65013/study1/view2_frontal.jpg,"[1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",['No Finding']
+.../patient65013/study1/view3_lateral.jpg,"[1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",['No Finding']
+.../patient65014/study1/view1_frontal.jpg,"[0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]","['Enlarged Cardiomediastinum', 'Cardiomegaly']"
+.../patient65015/study1/view1_frontal.jpg,"[0, 1, 1, 1, 0, 0, 0, 0, 1, 0, 1, 0, 0, 1]","['Enlarged Cardiomediastinum', 'Cardiomegaly', 'Lung Opacity', 'Atelectasis', 'Pleural Effusion', 'Support Devices']"
+.../patient65016/study1/view1_frontal.jpg,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",[]
+.../patient65016/study1/view2_lateral.jpg,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",[]
+.../patient65017/study1/view1_frontal.jpg,"[1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",['No Finding']
+.../patient65018/study1/view1_frontal.jpg,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",[]
+.../patient65018/study1/view2_lateral.jpg,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",[]
+.../patient65019/study1/view1_frontal.jpg,"[0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1]","['Enlarged Cardiomediastinum', 'Cardiomegaly', 'Support Devices']"
+.../patient65020/study1/view1_frontal.jpg,"[0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0]","['Lung Opacity', 'Lung Lesion', 'Pleural Other']"
+.../patient65020/study1/view2_lateral.jpg,"[0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0]","['Lung Opacity', 'Lung Lesion', 'Pleural Other']"
+.../patient65021/study1/view1_frontal.jpg,"[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1]","['Enlarged Cardiomediastinum', 'Support Devices']"
+.../patient65022/study1/view1_frontal.jpg,"[0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1]","['Lung Opacity', 'Atelectasis', 'Support Devices']"
+.../patient65023/study1/view1_frontal.jpg,"[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",['Enlarged Cardiomediastinum']
+.../patient65024/study1/view1_frontal.jpg,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1]",['Support Devices']
+.../patient65024/study1/view2_lateral.jpg,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1]",['Support Devices']
+.../patient65025/study1/view1_frontal.jpg,"[0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 1]","['Enlarged Cardiomediastinum', 'Lung Opacity', 'Pleural Effusion', 'Support Devices']"
+.../patient65026/study1/view1_frontal.jpg,"[0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0]","['Lung Opacity', 'Atelectasis']"
+.../patient65026/study1/view2_lateral.jpg,"[0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0]","['Lung Opacity', 'Atelectasis']"
+.../patient65027/study1/view1_frontal.jpg,"[0, 1, 1, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1]","['Enlarged Cardiomediastinum', 'Cardiomegaly', 'Lung Opacity', 'Edema', 'Support Devices']"
+.../patient65027/study1/view2_lateral.jpg,"[0, 1, 1, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1]","['Enlarged Cardiomediastinum', 'Cardiomegaly', 'Lung Opacity', 'Edema', 'Support Devices']"
+.../patient65028/study1/view1_frontal.jpg,"[0, 1, 1, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0]","['Enlarged Cardiomediastinum', 'Cardiomegaly', 'Lung Opacity', 'Edema']"
+.../patient65029/study1/view1_frontal.jpg,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1]",['Support Devices']
+.../patient65029/study1/view2_lateral.jpg,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1]",['Support Devices']
+.../patient65030/study1/view1_frontal.jpg,"[0, 1, 1, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0]","['Enlarged Cardiomediastinum', 'Cardiomegaly', 'Lung Opacity', 'Edema']"
+.../patient65030/study1/view2_lateral.jpg,"[0, 1, 1, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0]","['Enlarged Cardiomediastinum', 'Cardiomegaly', 'Lung Opacity', 'Edema']"
+.../patient65031/study1/view1_frontal.jpg,"[0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0]","['Lung Opacity', 'Atelectasis']"
+.../patient65031/study1/view2_frontal.jpg,"[0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0]","['Lung Opacity', 'Atelectasis']"
+.../patient65031/study1/view3_lateral.jpg,"[0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0]","['Lung Opacity', 'Atelectasis']"
+.../patient65032/study1/view1_frontal.jpg,"[0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]","['Enlarged Cardiomediastinum', 'Cardiomegaly']"
+.../patient65033/study1/view1_frontal.jpg,"[0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1]","['Lung Opacity', 'Atelectasis', 'Support Devices']"
+.../patient65033/study1/view2_lateral.jpg,"[0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1]","['Lung Opacity', 'Atelectasis', 'Support Devices']"
+.../patient65034/study1/view1_frontal.jpg,"[0, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1]","['Enlarged Cardiomediastinum', 'Cardiomegaly', 'Lung Opacity', 'Support Devices']"
+.../patient65034/study1/view2_lateral.jpg,"[0, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1]","['Enlarged Cardiomediastinum', 'Cardiomegaly', 'Lung Opacity', 'Support Devices']"
+.../patient65035/study1/view1_frontal.jpg,"[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1]","['Enlarged Cardiomediastinum', 'Support Devices']"
+.../patient65035/study1/view2_lateral.jpg,"[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1]","['Enlarged Cardiomediastinum', 'Support Devices']"
+.../patient65036/study1/view1_frontal.jpg,"[0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1]","['Enlarged Cardiomediastinum', 'Cardiomegaly', 'Support Devices']"
+.../patient65037/study1/view1_frontal.jpg,"[0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1]","['Lung Opacity', 'Atelectasis', 'Support Devices']"
+.../patient65038/study1/view1_frontal.jpg,"[0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1]","['Lung Opacity', 'Support Devices']"
+.../patient65039/study1/view1_frontal.jpg,"[0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0]","['Lung Opacity', 'Atelectasis']"
+.../patient65040/study1/view1_frontal.jpg,"[0, 1, 0, 1, 0, 0, 1, 0, 1, 0, 1, 0, 0, 1]","['Enlarged Cardiomediastinum', 'Lung Opacity', 'Consolidation', 'Atelectasis', 'Pleural Effusion', 'Support Devices']"
+.../patient65041/study1/view1_frontal.jpg,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1]",['Support Devices']
+.../patient65042/study1/view1_frontal.jpg,"[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1]","['Enlarged Cardiomediastinum', 'Support Devices']"
+.../patient65043/study1/view1_frontal.jpg,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1]",['Support Devices']
+.../patient65044/study1/view1_frontal.jpg,"[0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0]","['Lung Opacity', 'Atelectasis', 'Pleural Effusion']"
+.../patient65045/study1/view1_frontal.jpg,"[0, 1, 1, 1, 0, 0, 1, 1, 0, 0, 1, 0, 0, 1]","['Enlarged Cardiomediastinum', 'Cardiomegaly', 'Lung Opacity', 'Consolidation', 'Pneumonia', 'Pleural Effusion', 'Support Devices']"
+.../patient65046/study1/view1_frontal.jpg,"[0, 1, 1, 1, 0, 0, 0, 0, 1, 0, 1, 0, 0, 1]","['Enlarged Cardiomediastinum', 'Cardiomegaly', 'Lung Opacity', 'Atelectasis', 'Pleural Effusion', 'Support Devices']"
+.../patient65047/study1/view1_frontal.jpg,"[0, 1, 1, 1, 0, 0, 1, 0, 1, 0, 0, 0, 0, 1]","['Enlarged Cardiomediastinum', 'Cardiomegaly', 'Lung Opacity', 'Consolidation', 'Atelectasis', 'Support Devices']"
+.../patient65048/study1/view1_frontal.jpg,"[0, 1, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0]","['Enlarged Cardiomediastinum', 'Cardiomegaly', 'Lung Opacity', 'Atelectasis']"
+.../patient65049/study1/view1_frontal.jpg,"[0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1]","['Enlarged Cardiomediastinum', 'Cardiomegaly', 'Support Devices']"
+.../patient65050/study1/view1_frontal.jpg,"[1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",['No Finding']
+.../patient65050/study1/view2_frontal.jpg,"[1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",['No Finding']
+.../patient65051/study1/view1_frontal.jpg,"[0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",['Lung Opacity']
+.../patient65051/study1/view2_frontal.jpg,"[0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",['Lung Opacity']
+.../patient65052/study1/view1_frontal.jpg,"[0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0]","['Enlarged Cardiomediastinum', 'Lung Opacity', 'Pleural Effusion']"
+.../patient65053/study1/view1_frontal.jpg,"[0, 1, 1, 1, 0, 1, 1, 1, 0, 0, 0, 0, 0, 1]","['Enlarged Cardiomediastinum', 'Cardiomegaly', 'Lung Opacity', 'Edema', 'Consolidation', 'Pneumonia', 'Support Devices']"
+.../patient65054/study1/view1_frontal.jpg,"[0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1]","['Lung Opacity', 'Atelectasis', 'Support Devices']"
+.../patient65055/study1/view1_frontal.jpg,"[0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1]","['Enlarged Cardiomediastinum', 'Cardiomegaly', 'Support Devices']"
+.../patient65056/study1/view1_frontal.jpg,"[0, 1, 0, 1, 0, 1, 1, 0, 1, 0, 1, 0, 0, 1]","['Enlarged Cardiomediastinum', 'Lung Opacity', 'Edema', 'Consolidation', 'Atelectasis', 'Pleural Effusion', 'Support Devices']"
+.../patient65057/study1/view1_frontal.jpg,"[0, 1, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0]","['Enlarged Cardiomediastinum', 'Lung Opacity', 'Atelectasis']"
+.../patient65058/study1/view1_frontal.jpg,"[0, 1, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0]","['Enlarged Cardiomediastinum', 'Lung Opacity', 'Atelectasis']"
+.../patient65058/study1/view2_lateral.jpg,"[0, 1, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0]","['Enlarged Cardiomediastinum', 'Lung Opacity', 'Atelectasis']"
+.../patient65059/study1/view1_frontal.jpg,"[0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 1]","['Lung Opacity', 'Pleural Effusion', 'Support Devices']"
+.../patient65060/study1/view1_frontal.jpg,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",[]
+.../patient65060/study1/view2_lateral.jpg,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",[]
+.../patient65061/study1/view1_frontal.jpg,"[0, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1]","['Enlarged Cardiomediastinum', 'Cardiomegaly', 'Lung Opacity', 'Support Devices']"
+.../patient65062/study1/view1_frontal.jpg,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1]",['Support Devices']
+.../patient65063/study1/view1_frontal.jpg,"[0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1]","['Lung Opacity', 'Atelectasis', 'Support Devices']"
+.../patient65064/study1/view1_frontal.jpg,"[0, 1, 1, 1, 0, 0, 0, 0, 1, 0, 1, 0, 0, 1]","['Enlarged Cardiomediastinum', 'Cardiomegaly', 'Lung Opacity', 'Atelectasis', 'Pleural Effusion', 'Support Devices']"
+.../patient65065/study1/view1_frontal.jpg,"[0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]","['Enlarged Cardiomediastinum', 'Lung Opacity']"
+.../patient65066/study1/view1_frontal.jpg,"[0, 1, 1, 1, 0, 1, 0, 0, 1, 0, 1, 0, 0, 1]","['Enlarged Cardiomediastinum', 'Cardiomegaly', 'Lung Opacity', 'Edema', 'Atelectasis', 'Pleural Effusion', 'Support Devices']"
+.../patient65067/study1/view1_frontal.jpg,"[0, 1, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1]","['Enlarged Cardiomediastinum', 'Cardiomegaly', 'Lung Opacity', 'Atelectasis', 'Support Devices']"
+.../patient65068/study1/view1_frontal.jpg,"[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1]","['Enlarged Cardiomediastinum', 'Support Devices']"
+.../patient65069/study1/view1_frontal.jpg,"[0, 1, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1]","['Enlarged Cardiomediastinum', 'Lung Opacity', 'Edema', 'Support Devices']"
+.../patient65069/study1/view2_lateral.jpg,"[0, 1, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1]","['Enlarged Cardiomediastinum', 'Lung Opacity', 'Edema', 'Support Devices']"
+.../patient65070/study1/view1_frontal.jpg,"[0, 1, 1, 1, 0, 1, 0, 0, 1, 0, 1, 0, 0, 1]","['Enlarged Cardiomediastinum', 'Cardiomegaly', 'Lung Opacity', 'Edema', 'Atelectasis', 'Pleural Effusion', 'Support Devices']"
+.../patient65071/study1/view1_frontal.jpg,"[0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1]","['Enlarged Cardiomediastinum', 'Cardiomegaly', 'Support Devices']"
+.../patient65072/study1/view1_frontal.jpg,"[1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",['No Finding']
+.../patient65073/study1/view1_frontal.jpg,"[0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 1, 0, 0, 1]","['Lung Opacity', 'Atelectasis', 'Pleural Effusion', 'Support Devices']"
+.../patient65074/study1/view1_frontal.jpg,"[1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",['No Finding']
+.../patient65075/study1/view1_frontal.jpg,"[0, 0, 0, 1, 0, 1, 1, 0, 1, 0, 1, 0, 0, 1]","['Lung Opacity', 'Edema', 'Consolidation', 'Atelectasis', 'Pleural Effusion', 'Support Devices']"
+.../patient65076/study1/view1_frontal.jpg,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1]",['Support Devices']
+.../patient65077/study1/view1_frontal.jpg,"[0, 1, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1]","['Enlarged Cardiomediastinum', 'Lung Opacity', 'Atelectasis', 'Support Devices']"
+.../patient65078/study1/view1_frontal.jpg,"[0, 1, 1, 1, 0, 1, 0, 0, 1, 0, 0, 0, 0, 1]","['Enlarged Cardiomediastinum', 'Cardiomegaly', 'Lung Opacity', 'Edema', 'Atelectasis', 'Support Devices']"
+.../patient65079/study1/view1_frontal.jpg,"[0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 1, 0, 0, 1]","['Lung Opacity', 'Atelectasis', 'Pleural Effusion', 'Support Devices']"
+.../patient65080/study1/view1_frontal.jpg,"[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1]","['Enlarged Cardiomediastinum', 'Support Devices']"
+.../patient65081/study1/view1_frontal.jpg,"[0, 1, 0, 1, 0, 1, 0, 0, 1, 0, 1, 0, 0, 1]","['Enlarged Cardiomediastinum', 'Lung Opacity', 'Edema', 'Atelectasis', 'Pleural Effusion', 'Support Devices']"
+.../patient65082/study1/view1_frontal.jpg,"[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1]","['Enlarged Cardiomediastinum', 'Support Devices']"
+.../patient65083/study1/view1_frontal.jpg,"[1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",['No Finding']
+.../patient65084/study1/view1_frontal.jpg,"[0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0]","['Lung Opacity', 'Atelectasis', 'Pleural Effusion']"
+.../patient65084/study1/view2_frontal.jpg,"[0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0]","['Lung Opacity', 'Atelectasis', 'Pleural Effusion']"
+.../patient65085/study1/view1_frontal.jpg,"[0, 1, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1]","['Enlarged Cardiomediastinum', 'Lung Opacity', 'Atelectasis', 'Support Devices']"
+.../patient65086/study1/view1_frontal.jpg,"[0, 1, 0, 1, 0, 1, 0, 0, 1, 0, 0, 0, 0, 1]","['Enlarged Cardiomediastinum', 'Lung Opacity', 'Edema', 'Atelectasis', 'Support Devices']"
+.../patient65087/study1/view1_frontal.jpg,"[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",['Enlarged Cardiomediastinum']
+.../patient65087/study1/view2_lateral.jpg,"[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",['Enlarged Cardiomediastinum']
+.../patient65088/study1/view1_frontal.jpg,"[0, 1, 1, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 1]","['Enlarged Cardiomediastinum', 'Cardiomegaly', 'Lung Opacity', 'Pleural Effusion', 'Support Devices']"
+.../patient65089/study1/view1_frontal.jpg,"[0, 0, 0, 1, 0, 0, 1, 0, 1, 0, 1, 0, 0, 1]","['Lung Opacity', 'Consolidation', 'Atelectasis', 'Pleural Effusion', 'Support Devices']"
+.../patient65090/study1/view1_frontal.jpg,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",[]
+.../patient65090/study1/view2_lateral.jpg,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",[]
+.../patient65091/study1/view1_frontal.jpg,"[0, 1, 1, 1, 0, 1, 0, 0, 0, 1, 0, 0, 0, 1]","['Enlarged Cardiomediastinum', 'Cardiomegaly', 'Lung Opacity', 'Edema', 'Pneumothorax', 'Support Devices']"
+.../patient65092/study1/view1_frontal.jpg,"[0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 1, 0, 0, 1]","['Lung Opacity', 'Atelectasis', 'Pleural Effusion', 'Support Devices']"
+.../patient65093/study1/view1_frontal.jpg,"[0, 1, 1, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1]","['Enlarged Cardiomediastinum', 'Cardiomegaly', 'Lung Opacity', 'Edema', 'Support Devices']"
+.../patient65094/study1/view1_frontal.jpg,"[0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0]","['Lung Opacity', 'Atelectasis', 'Pleural Effusion']"
+.../patient65095/study1/view1_frontal.jpg,"[0, 1, 0, 1, 0, 1, 0, 0, 0, 0, 1, 0, 0, 1]","['Enlarged Cardiomediastinum', 'Lung Opacity', 'Edema', 'Pleural Effusion', 'Support Devices']"
+.../patient65096/study1/view1_frontal.jpg,"[0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1]","['Enlarged Cardiomediastinum', 'Cardiomegaly', 'Support Devices']"
+.../patient65097/study1/view1_frontal.jpg,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",[]
+.../patient65097/study1/view2_lateral.jpg,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",[]
+.../patient65097/study1/view3_lateral.jpg,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",[]
+.../patient65098/study1/view1_frontal.jpg,"[0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 1, 0, 0, 1]","['Lung Opacity', 'Edema', 'Pleural Effusion', 'Support Devices']"
+.../patient65099/study1/view1_frontal.jpg,"[0, 1, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1]","['Enlarged Cardiomediastinum', 'Lung Opacity', 'Atelectasis', 'Support Devices']"
+.../patient65100/study1/view1_frontal.jpg,"[0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 1, 1]","['Enlarged Cardiomediastinum', 'Lung Opacity', 'Pleural Effusion', 'Fracture', 'Support Devices']"
+.../patient65101/study1/view1_frontal.jpg,"[0, 0, 0, 1, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0]","['Lung Opacity', 'Pneumonia', 'Atelectasis']"
+.../patient65102/study1/view1_frontal.jpg,"[0, 1, 0, 1, 0, 0, 0, 0, 1, 0, 1, 0, 0, 1]","['Enlarged Cardiomediastinum', 'Lung Opacity', 'Atelectasis', 'Pleural Effusion', 'Support Devices']"
+.../patient65103/study1/view1_frontal.jpg,"[0, 1, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1]","['Enlarged Cardiomediastinum', 'Cardiomegaly', 'Lung Opacity', 'Atelectasis', 'Support Devices']"
+.../patient65104/study1/view1_frontal.jpg,"[0, 1, 0, 1, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0]","['Enlarged Cardiomediastinum', 'Lung Opacity', 'Edema', 'Pleural Effusion']"
+.../patient65105/study1/view1_frontal.jpg,"[0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0]","['Lung Opacity', 'Pneumonia']"
+.../patient65106/study1/view1_frontal.jpg,"[0, 1, 1, 1, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0]","['Enlarged Cardiomediastinum', 'Cardiomegaly', 'Lung Opacity', 'Atelectasis', 'Pleural Effusion']"
+.../patient65106/study1/view2_lateral.jpg,"[0, 1, 1, 1, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0]","['Enlarged Cardiomediastinum', 'Cardiomegaly', 'Lung Opacity', 'Atelectasis', 'Pleural Effusion']"
+.../patient65107/study1/view1_frontal.jpg,"[0, 1, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0]","['Enlarged Cardiomediastinum', 'Lung Opacity', 'Edema']"
+.../patient65108/study1/view1_frontal.jpg,"[0, 0, 0, 1, 0, 1, 0, 0, 1, 0, 0, 0, 0, 1]","['Lung Opacity', 'Edema', 'Atelectasis', 'Support Devices']"
+.../patient65109/study1/view1_frontal.jpg,"[1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",['No Finding']
+.../patient65110/study1/view1_frontal.jpg,"[0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1]","['Enlarged Cardiomediastinum', 'Cardiomegaly', 'Support Devices']"
+.../patient65111/study1/view1_frontal.jpg,"[0, 1, 1, 1, 0, 1, 0, 0, 1, 0, 0, 0, 0, 1]","['Enlarged Cardiomediastinum', 'Cardiomegaly', 'Lung Opacity', 'Edema', 'Atelectasis', 'Support Devices']"
+.../patient65112/study1/view1_frontal.jpg,"[0, 1, 1, 1, 0, 0, 0, 0, 1, 0, 1, 0, 0, 1]","['Enlarged Cardiomediastinum', 'Cardiomegaly', 'Lung Opacity', 'Atelectasis', 'Pleural Effusion', 'Support Devices']"
+.../patient65113/study1/view1_frontal.jpg,"[0, 1, 1, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1]","['Enlarged Cardiomediastinum', 'Cardiomegaly', 'Lung Opacity', 'Edema', 'Support Devices']"
+.../patient65114/study1/view1_frontal.jpg,"[0, 1, 1, 1, 0, 0, 0, 0, 1, 0, 1, 0, 0, 1]","['Enlarged Cardiomediastinum', 'Cardiomegaly', 'Lung Opacity', 'Atelectasis', 'Pleural Effusion', 'Support Devices']"
+.../patient65115/study1/view1_frontal.jpg,"[0, 0, 0, 1, 1, 0, 1, 1, 0, 0, 0, 0, 0, 1]","['Lung Opacity', 'Lung Lesion', 'Consolidation', 'Pneumonia', 'Support Devices']"
+.../patient65116/study1/view1_frontal.jpg,"[0, 1, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1]","['Enlarged Cardiomediastinum', 'Cardiomegaly', 'Lung Opacity', 'Atelectasis', 'Support Devices']"
+.../patient65117/study1/view1_frontal.jpg,"[0, 1, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1]","['Enlarged Cardiomediastinum', 'Cardiomegaly', 'Lung Opacity', 'Atelectasis', 'Support Devices']"
+.../patient65118/study1/view1_frontal.jpg,"[0, 1, 1, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0]","['Enlarged Cardiomediastinum', 'Cardiomegaly', 'Lung Opacity', 'Edema']"
+.../patient65119/study1/view1_frontal.jpg,"[0, 1, 1, 1, 0, 1, 1, 0, 1, 1, 0, 0, 0, 0]","['Enlarged Cardiomediastinum', 'Cardiomegaly', 'Lung Opacity', 'Edema', 'Consolidation', 'Atelectasis', 'Pneumothorax']"
+.../patient65120/study1/view1_frontal.jpg,"[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1]","['Enlarged Cardiomediastinum', 'Support Devices']"
+.../patient65121/study1/view1_frontal.jpg,"[0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0]","['Lung Opacity', 'Edema']"
+.../patient65122/study1/view1_frontal.jpg,"[0, 1, 1, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1]","['Enlarged Cardiomediastinum', 'Cardiomegaly', 'Lung Opacity', 'Edema', 'Support Devices']"
+.../patient65123/study1/view1_frontal.jpg,"[0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0]","['Lung Opacity', 'Atelectasis']"
+.../patient65124/study1/view1_frontal.jpg,"[0, 1, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1]","['Enlarged Cardiomediastinum', 'Cardiomegaly', 'Lung Opacity', 'Atelectasis', 'Support Devices']"
+.../patient65125/study1/view1_frontal.jpg,"[0, 1, 1, 1, 0, 1, 0, 0, 1, 0, 0, 0, 0, 1]","['Enlarged Cardiomediastinum', 'Cardiomegaly', 'Lung Opacity', 'Edema', 'Atelectasis', 'Support Devices']"
+.../patient65126/study1/view1_frontal.jpg,"[0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1]","['Enlarged Cardiomediastinum', 'Cardiomegaly', 'Support Devices']"
+.../patient65127/study1/view1_frontal.jpg,"[0, 1, 0, 1, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0]","['Enlarged Cardiomediastinum', 'Lung Opacity', 'Edema', 'Pleural Effusion']"
+.../patient65128/study1/view1_frontal.jpg,"[0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1]","['Lung Opacity', 'Support Devices']"
+.../patient65129/study1/view1_frontal.jpg,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 1]","['Pleural Effusion', 'Support Devices']"
+.../patient65130/study1/view1_frontal.jpg,"[0, 1, 0, 1, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0]","['Enlarged Cardiomediastinum', 'Lung Opacity', 'Atelectasis', 'Pleural Effusion']"
+.../patient65131/study1/view1_frontal.jpg,"[0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0]","['Lung Opacity', 'Atelectasis']"
+.../patient65132/study1/view1_frontal.jpg,"[0, 1, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1]","['Enlarged Cardiomediastinum', 'Cardiomegaly', 'Lung Opacity', 'Atelectasis', 'Support Devices']"
+.../patient65133/study1/view1_frontal.jpg,"[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1]","['Enlarged Cardiomediastinum', 'Support Devices']"
+.../patient65134/study1/view1_frontal.jpg,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",[]
+.../patient65135/study1/view1_frontal.jpg,"[0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1]","['Lung Opacity', 'Support Devices']"
+.../patient65136/study1/view1_frontal.jpg,"[0, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1]","['Enlarged Cardiomediastinum', 'Cardiomegaly', 'Lung Opacity', 'Support Devices']"
+.../patient65137/study1/view1_frontal.jpg,"[0, 1, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0]","['Enlarged Cardiomediastinum', 'Lung Opacity', 'Edema']"
+.../patient65138/study1/view1_frontal.jpg,"[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1]","['Enlarged Cardiomediastinum', 'Support Devices']"
+.../patient65139/study1/view1_frontal.jpg,"[0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1]","['Lung Opacity', 'Atelectasis', 'Support Devices']"
+.../patient65140/study1/view1_frontal.jpg,"[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1]","['Enlarged Cardiomediastinum', 'Support Devices']"
+.../patient65141/study1/view1_frontal.jpg,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1]",['Support Devices']
+.../patient65142/study1/view1_frontal.jpg,"[0, 1, 0, 1, 0, 1, 0, 0, 1, 0, 1, 0, 0, 0]","['Enlarged Cardiomediastinum', 'Lung Opacity', 'Edema', 'Atelectasis', 'Pleural Effusion']"
+.../patient65143/study1/view1_frontal.jpg,"[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1]","['Enlarged Cardiomediastinum', 'Support Devices']"
+.../patient65144/study1/view1_frontal.jpg,"[0, 1, 1, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1]","['Enlarged Cardiomediastinum', 'Cardiomegaly', 'Lung Opacity', 'Edema', 'Support Devices']"
+.../patient65145/study1/view1_frontal.jpg,"[0, 1, 1, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1]","['Enlarged Cardiomediastinum', 'Cardiomegaly', 'Lung Opacity', 'Edema', 'Support Devices']"
+.../patient65146/study1/view1_frontal.jpg,"[0, 1, 1, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1]","['Enlarged Cardiomediastinum', 'Cardiomegaly', 'Lung Opacity', 'Edema', 'Support Devices']"
+.../patient65147/study1/view1_frontal.jpg,"[0, 0, 0, 1, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0]","['Lung Opacity', 'Consolidation', 'Pneumonia']"
+.../patient65147/study1/view2_lateral.jpg,"[0, 0, 0, 1, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0]","['Lung Opacity', 'Consolidation', 'Pneumonia']"
+.../patient65148/study1/view1_frontal.jpg,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1]",['Support Devices']
+.../patient65149/study1/view1_frontal.jpg,"[0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1]","['Lung Opacity', 'Atelectasis', 'Support Devices']"
+.../patient65150/study1/view1_frontal.jpg,"[0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0]","['Lung Opacity', 'Atelectasis']"
+.../patient65150/study1/view2_lateral.jpg,"[0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0]","['Lung Opacity', 'Atelectasis']"
+.../patient65151/study1/view1_frontal.jpg,"[0, 0, 0, 1, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0]","['Lung Opacity', 'Edema', 'Consolidation']"
+.../patient65152/study1/view1_frontal.jpg,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1]",['Support Devices']
+.../patient65152/study1/view2_lateral.jpg,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1]",['Support Devices']
+.../patient65153/study1/view1_frontal.jpg,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1]",['Support Devices']
+.../patient65154/study1/view1_frontal.jpg,"[0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0]","['Lung Opacity', 'Lung Lesion']"
+.../patient65155/study1/view1_frontal.jpg,"[0, 1, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1]","['Enlarged Cardiomediastinum', 'Lung Opacity', 'Atelectasis', 'Support Devices']"
+.../patient65156/study1/view1_frontal.jpg,"[0, 1, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1]","['Enlarged Cardiomediastinum', 'Cardiomegaly', 'Lung Opacity', 'Atelectasis', 'Support Devices']"
+.../patient65157/study1/view1_frontal.jpg,"[0, 1, 1, 1, 0, 0, 0, 0, 1, 0, 1, 0, 0, 1]","['Enlarged Cardiomediastinum', 'Cardiomegaly', 'Lung Opacity', 'Atelectasis', 'Pleural Effusion', 'Support Devices']"
+.../patient65158/study1/view1_frontal.jpg,"[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",['Enlarged Cardiomediastinum']
+.../patient65159/study1/view1_frontal.jpg,"[0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]","['Enlarged Cardiomediastinum', 'Cardiomegaly']"
+.../patient65160/study1/view1_frontal.jpg,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",[]
+.../patient65161/study1/view1_frontal.jpg,"[0, 1, 1, 1, 0, 1, 0, 0, 1, 0, 1, 0, 0, 1]","['Enlarged Cardiomediastinum', 'Cardiomegaly', 'Lung Opacity', 'Edema', 'Atelectasis', 'Pleural Effusion', 'Support Devices']"
+.../patient65162/study1/view1_frontal.jpg,"[0, 1, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0]","['Enlarged Cardiomediastinum', 'Cardiomegaly', 'Lung Opacity', 'Atelectasis']"
+.../patient65163/study1/view1_frontal.jpg,"[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1]","['Enlarged Cardiomediastinum', 'Support Devices']"
+.../patient65164/study1/view1_frontal.jpg,"[0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 1]","['Enlarged Cardiomediastinum', 'Lung Opacity', 'Pleural Effusion', 'Support Devices']"
+.../patient65165/study1/view1_frontal.jpg,"[0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0]","['Lung Opacity', 'Atelectasis']"
+.../patient65166/study1/view1_frontal.jpg,"[0, 1, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0]","['Enlarged Cardiomediastinum', 'Lung Opacity', 'Atelectasis']"
+.../patient65167/study1/view1_frontal.jpg,"[0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1]","['Enlarged Cardiomediastinum', 'Cardiomegaly', 'Support Devices']"
+.../patient65168/study1/view1_frontal.jpg,"[0, 1, 1, 1, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0]","['Enlarged Cardiomediastinum', 'Cardiomegaly', 'Lung Opacity', 'Edema', 'Pleural Effusion']"
+.../patient65169/study1/view1_frontal.jpg,"[0, 1, 1, 1, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0]","['Enlarged Cardiomediastinum', 'Cardiomegaly', 'Lung Opacity', 'Consolidation', 'Atelectasis']"
+.../patient65170/study1/view1_frontal.jpg,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",[]
+.../patient65171/study1/view1_frontal.jpg,"[0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1]","['Enlarged Cardiomediastinum', 'Cardiomegaly', 'Support Devices']"
+.../patient65172/study1/view1_frontal.jpg,"[0, 0, 0, 1, 0, 0, 1, 0, 1, 0, 1, 0, 0, 1]","['Lung Opacity', 'Consolidation', 'Atelectasis', 'Pleural Effusion', 'Support Devices']"
+.../patient65173/study1/view1_frontal.jpg,"[0, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1]","['Enlarged Cardiomediastinum', 'Cardiomegaly', 'Lung Opacity', 'Support Devices']"
+.../patient65174/study1/view1_frontal.jpg,"[0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1]","['Lung Opacity', 'Support Devices']"
+.../patient65175/study1/view1_frontal.jpg,"[0, 1, 1, 1, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0]","['Enlarged Cardiomediastinum', 'Cardiomegaly', 'Lung Opacity', 'Atelectasis', 'Pleural Effusion']"
+.../patient65176/study1/view1_frontal.jpg,"[0, 1, 1, 1, 0, 1, 0, 0, 1, 0, 1, 0, 0, 0]","['Enlarged Cardiomediastinum', 'Cardiomegaly', 'Lung Opacity', 'Edema', 'Atelectasis', 'Pleural Effusion']"
+.../patient65177/study1/view1_frontal.jpg,"[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",['Enlarged Cardiomediastinum']
+.../patient65178/study1/view1_frontal.jpg,"[0, 1, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0]","['Enlarged Cardiomediastinum', 'Lung Opacity', 'Atelectasis']"
+.../patient65179/study1/view1_frontal.jpg,"[0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1]","['Lung Opacity', 'Atelectasis', 'Support Devices']"
+.../patient65180/study1/view1_frontal.jpg,"[1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",['No Finding']
+.../patient65181/study1/view1_frontal.jpg,"[0, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1]","['Enlarged Cardiomediastinum', 'Cardiomegaly', 'Lung Opacity', 'Support Devices']"
+.../patient65182/study1/view1_frontal.jpg,"[0, 1, 0, 1, 0, 0, 0, 0, 1, 0, 1, 0, 0, 1]","['Enlarged Cardiomediastinum', 'Lung Opacity', 'Atelectasis', 'Pleural Effusion', 'Support Devices']"
+.../patient65183/study1/view1_frontal.jpg,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",[]
+.../patient65184/study1/view1_frontal.jpg,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1]",['Support Devices']
+.../patient65185/study1/view1_frontal.jpg,"[0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1]","['Lung Opacity', 'Atelectasis', 'Support Devices']"
+.../patient65186/study1/view1_frontal.jpg,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1]",['Support Devices']
+.../patient65187/study1/view1_frontal.jpg,"[0, 1, 1, 1, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0]","['Enlarged Cardiomediastinum', 'Cardiomegaly', 'Lung Opacity', 'Edema', 'Atelectasis']"
+.../patient65188/study1/view1_frontal.jpg,"[0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1]","['Lung Opacity', 'Support Devices']"
+.../patient65189/study1/view1_frontal.jpg,"[0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0]","['Lung Opacity', 'Atelectasis']"
+.../patient65189/study1/view2_frontal.jpg,"[0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0]","['Lung Opacity', 'Atelectasis']"
+.../patient65190/study1/view1_frontal.jpg,"[0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 1, 0, 0, 1]","['Lung Opacity', 'Atelectasis', 'Pleural Effusion', 'Support Devices']"
+.../patient65191/study1/view1_frontal.jpg,"[0, 1, 1, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1]","['Enlarged Cardiomediastinum', 'Cardiomegaly', 'Lung Opacity', 'Edema', 'Support Devices']"
+.../patient65192/study1/view1_frontal.jpg,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0]",['Fracture']
+.../patient65193/study1/view1_frontal.jpg,"[0, 1, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1]","['Enlarged Cardiomediastinum', 'Cardiomegaly', 'Lung Opacity', 'Atelectasis', 'Support Devices']"
+.../patient65194/study1/view1_frontal.jpg,"[0, 1, 1, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0]","['Enlarged Cardiomediastinum', 'Cardiomegaly', 'Lung Opacity', 'Edema']"
+.../patient65195/study1/view1_frontal.jpg,"[0, 1, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0]","['Enlarged Cardiomediastinum', 'Lung Opacity', 'Consolidation']"
+.../patient65196/study1/view1_frontal.jpg,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1]","['Pneumothorax', 'Support Devices']"
+.../patient65197/study1/view1_frontal.jpg,"[0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]","['Enlarged Cardiomediastinum', 'Cardiomegaly']"
+.../patient65198/study1/view1_frontal.jpg,"[0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]","['Enlarged Cardiomediastinum', 'Cardiomegaly']"
+.../patient65199/study1/view1_frontal.jpg,"[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",['Enlarged Cardiomediastinum']
+.../patient65200/study1/view1_frontal.jpg,"[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",['Enlarged Cardiomediastinum']
+.../patient65201/study1/view1_frontal.jpg,"[0, 1, 0, 1, 0, 0, 0, 0, 1, 0, 1, 0, 0, 1]","['Enlarged Cardiomediastinum', 'Lung Opacity', 'Atelectasis', 'Pleural Effusion', 'Support Devices']"
+.../patient65202/study1/view1_frontal.jpg,"[0, 1, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1]","['Enlarged Cardiomediastinum', 'Lung Opacity', 'Edema', 'Support Devices']"
+.../patient65203/study1/view1_frontal.jpg,"[0, 1, 1, 1, 0, 1, 1, 0, 1, 0, 1, 0, 0, 1]","['Enlarged Cardiomediastinum', 'Cardiomegaly', 'Lung Opacity', 'Edema', 'Consolidation', 'Atelectasis', 'Pleural Effusion', 'Support Devices']"
+.../patient65204/study1/view1_frontal.jpg,"[0, 0, 0, 1, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0]","['Lung Opacity', 'Consolidation', 'Pneumonia']"
+.../patient65204/study1/view2_lateral.jpg,"[0, 0, 0, 1, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0]","['Lung Opacity', 'Consolidation', 'Pneumonia']"
+.../patient65205/study1/view1_frontal.jpg,"[0, 1, 1, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0]","['Enlarged Cardiomediastinum', 'Cardiomegaly', 'Lung Opacity', 'Edema']"
+.../patient65206/study1/view1_frontal.jpg,"[0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1]","['Lung Opacity', 'Edema', 'Support Devices']"
+.../patient65207/study1/view1_frontal.jpg,"[0, 1, 0, 1, 0, 1, 0, 0, 1, 0, 1, 0, 0, 1]","['Enlarged Cardiomediastinum', 'Lung Opacity', 'Edema', 'Atelectasis', 'Pleural Effusion', 'Support Devices']"
+.../patient65208/study1/view1_frontal.jpg,"[0, 1, 1, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1]","['Enlarged Cardiomediastinum', 'Cardiomegaly', 'Lung Opacity', 'Edema', 'Support Devices']"
+.../patient65209/study1/view1_frontal.jpg,"[0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 1, 0, 0, 1]","['Lung Opacity', 'Atelectasis', 'Pleural Effusion', 'Support Devices']"
+.../patient65210/study1/view1_frontal.jpg,"[0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0]","['Lung Opacity', 'Atelectasis']"
+.../patient65211/study1/view1_frontal.jpg,"[0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1]","['Lung Opacity', 'Support Devices']"
+.../patient65212/study1/view1_frontal.jpg,"[0, 1, 1, 1, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0]","['Enlarged Cardiomediastinum', 'Cardiomegaly', 'Lung Opacity', 'Atelectasis', 'Pleural Effusion']"
+.../patient65213/study1/view1_frontal.jpg,"[1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",['No Finding']
+.../patient65214/study1/view1_frontal.jpg,"[0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1]","['Enlarged Cardiomediastinum', 'Cardiomegaly', 'Support Devices']"
+.../patient65214/study1/view2_lateral.jpg,"[0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1]","['Enlarged Cardiomediastinum', 'Cardiomegaly', 'Support Devices']"
+.../patient65215/study1/view1_frontal.jpg,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1]",['Support Devices']
+.../patient65216/study1/view1_frontal.jpg,"[0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1]","['Lung Opacity', 'Edema', 'Support Devices']"
+.../patient65217/study1/view1_frontal.jpg,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1]",['Support Devices']
+.../patient65218/study1/view1_frontal.jpg,"[0, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1]","['Enlarged Cardiomediastinum', 'Cardiomegaly', 'Lung Opacity', 'Support Devices']"
+.../patient65219/study1/view1_frontal.jpg,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1]",['Support Devices']
+.../patient65220/study1/view1_frontal.jpg,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1]",['Support Devices']
+.../patient65221/study1/view1_frontal.jpg,"[0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 1, 0, 0, 1]","['Lung Opacity', 'Atelectasis', 'Pleural Effusion', 'Support Devices']"
+.../patient65222/study1/view1_frontal.jpg,"[0, 1, 1, 1, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0]","['Enlarged Cardiomediastinum', 'Cardiomegaly', 'Lung Opacity', 'Atelectasis', 'Pleural Effusion']"
+.../patient65223/study1/view1_frontal.jpg,"[0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 1, 0, 0, 1]","['Lung Opacity', 'Atelectasis', 'Pleural Effusion', 'Support Devices']"
+.../patient65224/study1/view1_frontal.jpg,"[0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0]","['Lung Opacity', 'Atelectasis', 'Pleural Effusion']"
+.../patient65225/study1/view1_frontal.jpg,"[0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0]","['Lung Opacity', 'Atelectasis', 'Pleural Effusion']"
+.../patient65226/study1/view1_frontal.jpg,"[0, 1, 1, 1, 0, 1, 0, 0, 0, 0, 1, 0, 0, 1]","['Enlarged Cardiomediastinum', 'Cardiomegaly', 'Lung Opacity', 'Edema', 'Pleural Effusion', 'Support Devices']"
+.../patient65227/study1/view1_frontal.jpg,"[0, 0, 0, 1, 0, 1, 0, 0, 1, 0, 1, 0, 0, 1]","['Lung Opacity', 'Edema', 'Atelectasis', 'Pleural Effusion', 'Support Devices']"
+.../patient65228/study1/view1_frontal.jpg,"[0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0]","['Lung Opacity', 'Atelectasis']"
+.../patient65229/study1/view1_frontal.jpg,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0]",['Pleural Effusion']
+.../patient65230/study1/view1_frontal.jpg,"[0, 1, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0]","['Enlarged Cardiomediastinum', 'Lung Opacity', 'Consolidation']"
+.../patient65231/study1/view1_frontal.jpg,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 1]","['Pleural Effusion', 'Support Devices']"
+.../patient65232/study1/view1_frontal.jpg,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1]",['Support Devices']
+.../patient65233/study1/view1_frontal.jpg,"[0, 1, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1]","['Enlarged Cardiomediastinum', 'Lung Opacity', 'Atelectasis', 'Support Devices']"
+.../patient65234/study1/view1_frontal.jpg,"[0, 1, 0, 1, 0, 0, 0, 0, 1, 0, 1, 0, 0, 1]","['Enlarged Cardiomediastinum', 'Lung Opacity', 'Atelectasis', 'Pleural Effusion', 'Support Devices']"
+.../patient65235/study1/view1_frontal.jpg,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",[]
+.../patient65235/study1/view2_lateral.jpg,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",[]
+.../patient65235/study1/view3_lateral.jpg,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",[]
+.../patient65236/study1/view1_frontal.jpg,"[0, 1, 1, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1]","['Enlarged Cardiomediastinum', 'Cardiomegaly', 'Lung Opacity', 'Edema', 'Support Devices']"
+.../patient65237/study1/view1_frontal.jpg,"[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",['Enlarged Cardiomediastinum']
+.../patient65238/study1/view1_frontal.jpg,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1]",['Support Devices']
+.../patient65239/study1/view1_frontal.jpg,"[0, 1, 1, 1, 0, 1, 0, 0, 1, 0, 0, 0, 0, 1]","['Enlarged Cardiomediastinum', 'Cardiomegaly', 'Lung Opacity', 'Edema', 'Atelectasis', 'Support Devices']"
+.../patient65240/study1/view1_frontal.jpg,"[0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 1, 0, 0, 1]","['Lung Opacity', 'Atelectasis', 'Pleural Effusion', 'Support Devices']"

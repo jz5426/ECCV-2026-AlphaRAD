@@ -1,0 +1,6 @@
+covidkaggle:
+  name: "covidkaggle"
+  data_type: "image_classification"
+  data_path: "/configs/data_csv/covidkaggle.csv"
+  n_class: 1
+  normalize: ${designs.model.image_encoder.configs.normalize}

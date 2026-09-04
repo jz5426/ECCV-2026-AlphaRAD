@@ -1,0 +1,1382 @@
+Unnamed: 0,image,label,class
+18206,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-8580.png,0,No covid
+1638,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-1639.png,1,Covid
+1734,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-1735.png,1,Covid
+2435,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-2436.png,1,Covid
+2324,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-2325.png,1,Covid
+956,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-957.png,1,Covid
+15989,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-6363.png,0,No covid
+10043,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-416.png,0,No covid
+19209,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-9583.png,0,No covid
+13316,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-3689.png,0,No covid
+19777,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-10151.png,0,No covid
+17601,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-7975.png,0,No covid
+13579,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-3952.png,0,No covid
+17723,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-8097.png,0,No covid
+2612,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-2613.png,1,Covid
+16966,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-7340.png,0,No covid
+13346,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-3719.png,0,No covid
+16451,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-6825.png,0,No covid
+14946,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-5320.png,0,No covid
+16697,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-7071.png,0,No covid
+1520,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-1521.png,1,Covid
+12216,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-2589.png,0,No covid
+3509,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-3510.png,1,Covid
+3119,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-3120.png,1,Covid
+2450,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-2451.png,1,Covid
+11384,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-1757.png,0,No covid
+2294,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-2295.png,1,Covid
+12262,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-2635.png,0,No covid
+19208,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-9582.png,0,No covid
+11382,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-1755.png,0,No covid
+16816,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-7190.png,0,No covid
+12429,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-2802.png,0,No covid
+10653,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-1026.png,0,No covid
+459,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-460.png,1,Covid
+17814,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-8188.png,0,No covid
+16080,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-6454.png,0,No covid
+15527,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-5901.png,0,No covid
+12767,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-3140.png,0,No covid
+1685,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-1686.png,1,Covid
+1768,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-1769.png,1,Covid
+623,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-624.png,1,Covid
+17637,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-8011.png,0,No covid
+19535,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-9909.png,0,No covid
+13438,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-3811.png,0,No covid
+14445,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-4819.png,0,No covid
+18280,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-8654.png,0,No covid
+9673,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-46.png,0,No covid
+1183,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-1184.png,1,Covid
+12785,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-3158.png,0,No covid
+19532,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-9906.png,0,No covid
+19062,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-9436.png,0,No covid
+400,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-401.png,1,Covid
+15187,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-5561.png,0,No covid
+3499,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-3500.png,1,Covid
+11643,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-2016.png,0,No covid
+19564,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-9938.png,0,No covid
+19817,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-10191.png,0,No covid
+10184,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-557.png,0,No covid
+19681,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-10055.png,0,No covid
+18283,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-8657.png,0,No covid
+11402,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-1775.png,0,No covid
+17061,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-7435.png,0,No covid
+15857,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-6231.png,0,No covid
+15300,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-5674.png,0,No covid
+12867,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-3240.png,0,No covid
+201,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-202.png,1,Covid
+2038,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-2039.png,1,Covid
+15479,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-5853.png,0,No covid
+10228,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-601.png,0,No covid
+2047,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-2048.png,1,Covid
+795,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-796.png,1,Covid
+15735,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-6109.png,0,No covid
+11129,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-1502.png,0,No covid
+14442,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-4816.png,0,No covid
+2556,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-2557.png,1,Covid
+14680,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-5054.png,0,No covid
+17000,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-7374.png,0,No covid
+18262,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-8636.png,0,No covid
+10373,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-746.png,0,No covid
+15810,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-6184.png,0,No covid
+12899,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-3272.png,0,No covid
+3134,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-3135.png,1,Covid
+18483,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-8857.png,0,No covid
+1408,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-1409.png,1,Covid
+18234,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-8608.png,0,No covid
+18875,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-9249.png,0,No covid
+17606,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-7980.png,0,No covid
+186,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-187.png,1,Covid
+19358,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-9732.png,0,No covid
+13948,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-4321.png,0,No covid
+2557,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-2558.png,1,Covid
+3452,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-3453.png,1,Covid
+15878,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-6252.png,0,No covid
+2863,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-2864.png,1,Covid
+19793,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-10167.png,0,No covid
+2879,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-2880.png,1,Covid
+10014,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-387.png,0,No covid
+11646,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-2019.png,0,No covid
+19570,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-9944.png,0,No covid
+2449,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-2450.png,1,Covid
+10362,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-735.png,0,No covid
+10341,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-714.png,0,No covid
+2041,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-2042.png,1,Covid
+15638,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-6012.png,0,No covid
+3184,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-3185.png,1,Covid
+17413,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-7787.png,0,No covid
+14118,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-4491.png,0,No covid
+16430,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-6804.png,0,No covid
+10018,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-391.png,0,No covid
+3005,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-3006.png,1,Covid
+3535,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-3536.png,1,Covid
+18856,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-9230.png,0,No covid
+18818,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-9192.png,0,No covid
+17387,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-7761.png,0,No covid
+17600,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-7974.png,0,No covid
+13646,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-4019.png,0,No covid
+14714,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-5088.png,0,No covid
+1297,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-1298.png,1,Covid
+1695,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-1696.png,1,Covid
+12665,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-3038.png,0,No covid
+13486,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-3859.png,0,No covid
+10534,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-907.png,0,No covid
+17040,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-7414.png,0,No covid
+13960,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-4333.png,0,No covid
+2773,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-2774.png,1,Covid
+18902,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-9276.png,0,No covid
+13716,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-4089.png,0,No covid
+12359,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-2732.png,0,No covid
+12172,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-2545.png,0,No covid
+18396,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-8770.png,0,No covid
+2062,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-2063.png,1,Covid
+12613,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-2986.png,0,No covid
+19392,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-9766.png,0,No covid
+17871,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-8245.png,0,No covid
+17655,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-8029.png,0,No covid
+262,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-263.png,1,Covid
+14493,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-4867.png,0,No covid
+15840,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-6214.png,0,No covid
+95,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-96.png,1,Covid
+13221,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-3594.png,0,No covid
+15011,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-5385.png,0,No covid
+3092,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-3093.png,1,Covid
+11476,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-1849.png,0,No covid
+12017,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-2390.png,0,No covid
+16996,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-7370.png,0,No covid
+16332,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-6706.png,0,No covid
+64,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-65.png,1,Covid
+19778,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-10152.png,0,No covid
+14516,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-4890.png,0,No covid
+10154,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-527.png,0,No covid
+17113,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-7487.png,0,No covid
+1529,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-1530.png,1,Covid
+17457,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-7831.png,0,No covid
+15148,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-5522.png,0,No covid
+14749,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-5123.png,0,No covid
+16784,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-7158.png,0,No covid
+11051,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-1424.png,0,No covid
+13870,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-4243.png,0,No covid
+17776,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-8150.png,0,No covid
+14957,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-5331.png,0,No covid
+3570,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-3571.png,1,Covid
+17774,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-8148.png,0,No covid
+391,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-392.png,1,Covid
+18672,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-9046.png,0,No covid
+11520,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-1893.png,0,No covid
+10393,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-766.png,0,No covid
+19683,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-10057.png,0,No covid
+14936,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-5310.png,0,No covid
+103,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-104.png,1,Covid
+10682,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-1055.png,0,No covid
+19685,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-10059.png,0,No covid
+10060,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-433.png,0,No covid
+16261,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-6635.png,0,No covid
+12561,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-2934.png,0,No covid
+15709,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-6083.png,0,No covid
+2919,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-2920.png,1,Covid
+15472,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-5846.png,0,No covid
+2695,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-2696.png,1,Covid
+17342,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-7716.png,0,No covid
+19459,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-9833.png,0,No covid
+16877,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-7251.png,0,No covid
+15361,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-5735.png,0,No covid
+16823,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-7197.png,0,No covid
+11166,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-1539.png,0,No covid
+10124,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-497.png,0,No covid
+13127,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-3500.png,0,No covid
+17910,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-8284.png,0,No covid
+14265,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-4638.png,0,No covid
+452,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-453.png,1,Covid
+15482,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-5856.png,0,No covid
+3296,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-3297.png,1,Covid
+12000,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-2373.png,0,No covid
+14817,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-5191.png,0,No covid
+10359,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-732.png,0,No covid
+10260,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-633.png,0,No covid
+12830,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-3203.png,0,No covid
+17889,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-8263.png,0,No covid
+15422,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-5796.png,0,No covid
+2198,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-2199.png,1,Covid
+2056,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-2057.png,1,Covid
+15596,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-5970.png,0,No covid
+18527,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-8901.png,0,No covid
+14458,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-4832.png,0,No covid
+16467,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-6841.png,0,No covid
+488,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-489.png,1,Covid
+9781,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-154.png,0,No covid
+10402,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-775.png,0,No covid
+19520,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-9894.png,0,No covid
+15410,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-5784.png,0,No covid
+13644,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-4017.png,0,No covid
+3417,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-3418.png,1,Covid
+197,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-198.png,1,Covid
+12886,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-3259.png,0,No covid
+13927,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-4300.png,0,No covid
+3440,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-3441.png,1,Covid
+1585,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-1586.png,1,Covid
+13742,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-4115.png,0,No covid
+18915,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-9289.png,0,No covid
+13168,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-3541.png,0,No covid
+2977,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-2978.png,1,Covid
+995,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-996.png,1,Covid
+12550,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-2923.png,0,No covid
+13162,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-3535.png,0,No covid
+586,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-587.png,1,Covid
+13730,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-4103.png,0,No covid
+11379,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-1752.png,0,No covid
+13403,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-3776.png,0,No covid
+17432,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-7806.png,0,No covid
+17024,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-7398.png,0,No covid
+2675,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-2676.png,1,Covid
+13681,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-4054.png,0,No covid
+1059,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-1060.png,1,Covid
+2160,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-2161.png,1,Covid
+3174,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-3175.png,1,Covid
+14196,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-4569.png,0,No covid
+18811,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-9185.png,0,No covid
+1496,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-1497.png,1,Covid
+804,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-805.png,1,Covid
+13269,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-3642.png,0,No covid
+2939,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-2940.png,1,Covid
+11565,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-1938.png,0,No covid
+11349,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-1722.png,0,No covid
+10812,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-1185.png,0,No covid
+18968,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-9342.png,0,No covid
+14339,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-4712.png,0,No covid
+1806,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-1807.png,1,Covid
+14972,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-5346.png,0,No covid
+14581,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-4955.png,0,No covid
+1438,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-1439.png,1,Covid
+13272,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-3645.png,0,No covid
+18933,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-9307.png,0,No covid
+18348,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-8722.png,0,No covid
+13298,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-3671.png,0,No covid
+17092,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-7466.png,0,No covid
+10284,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-657.png,0,No covid
+13915,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-4288.png,0,No covid
+18336,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-8710.png,0,No covid
+2235,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-2236.png,1,Covid
+14636,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-5010.png,0,No covid
+18731,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-9105.png,0,No covid
+206,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-207.png,1,Covid
+15272,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-5646.png,0,No covid
+10774,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-1147.png,0,No covid
+9699,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-72.png,0,No covid
+1919,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-1920.png,1,Covid
+2976,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-2977.png,1,Covid
+3062,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-3063.png,1,Covid
+12378,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-2751.png,0,No covid
+15759,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-6133.png,0,No covid
+14567,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-4941.png,0,No covid
+1020,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-1021.png,1,Covid
+17378,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-7752.png,0,No covid
+17483,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-7857.png,0,No covid
+709,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-710.png,1,Covid
+9881,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-254.png,0,No covid
+19323,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-9697.png,0,No covid
+18981,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-9355.png,0,No covid
+11123,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-1496.png,0,No covid
+11410,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-1783.png,0,No covid
+18108,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-8482.png,0,No covid
+11187,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-1560.png,0,No covid
+18616,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-8990.png,0,No covid
+13708,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-4081.png,0,No covid
+12529,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-2902.png,0,No covid
+11496,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-1869.png,0,No covid
+1930,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-1931.png,1,Covid
+14088,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-4461.png,0,No covid
+10264,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-637.png,0,No covid
+19000,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-9374.png,0,No covid
+3060,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-3061.png,1,Covid
+9745,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-118.png,0,No covid
+11353,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-1726.png,0,No covid
+14143,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-4516.png,0,No covid
+13191,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-3564.png,0,No covid
+14298,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-4671.png,0,No covid
+16630,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-7004.png,0,No covid
+17751,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-8125.png,0,No covid
+14190,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-4563.png,0,No covid
+9923,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-296.png,0,No covid
+1129,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-1130.png,1,Covid
+16244,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-6618.png,0,No covid
+2061,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-2062.png,1,Covid
+12248,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-2621.png,0,No covid
+3556,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-3557.png,1,Covid
+15597,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-5971.png,0,No covid
+1661,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-1662.png,1,Covid
+18059,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-8433.png,0,No covid
+15540,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-5914.png,0,No covid
+3183,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-3184.png,1,Covid
+1722,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-1723.png,1,Covid
+11809,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-2182.png,0,No covid
+10312,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-685.png,0,No covid
+14820,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-5194.png,0,No covid
+12669,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-3042.png,0,No covid
+15067,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-5441.png,0,No covid
+14833,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-5207.png,0,No covid
+15910,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-6284.png,0,No covid
+3459,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-3460.png,1,Covid
+13413,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-3786.png,0,No covid
+17508,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-7882.png,0,No covid
+13890,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-4263.png,0,No covid
+14848,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-5222.png,0,No covid
+19272,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-9646.png,0,No covid
+17306,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-7680.png,0,No covid
+16439,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-6813.png,0,No covid
+15955,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-6329.png,0,No covid
+189,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-190.png,1,Covid
+18652,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-9026.png,0,No covid
+17006,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-7380.png,0,No covid
+1759,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-1760.png,1,Covid
+18261,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-8635.png,0,No covid
+19687,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-10061.png,0,No covid
+11201,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-1574.png,0,No covid
+14907,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-5281.png,0,No covid
+12337,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-2710.png,0,No covid
+13740,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-4113.png,0,No covid
+13595,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-3968.png,0,No covid
+15095,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-5469.png,0,No covid
+13516,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-3889.png,0,No covid
+14623,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-4997.png,0,No covid
+17998,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-8372.png,0,No covid
+3461,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-3462.png,1,Covid
+854,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-855.png,1,Covid
+11217,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-1590.png,0,No covid
+12987,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-3360.png,0,No covid
+18821,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-9195.png,0,No covid
+2343,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-2344.png,1,Covid
+3003,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-3004.png,1,Covid
+2613,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-2614.png,1,Covid
+18919,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-9293.png,0,No covid
+17051,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-7425.png,0,No covid
+15320,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-5694.png,0,No covid
+17844,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-8218.png,0,No covid
+13629,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-4002.png,0,No covid
+19394,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-9768.png,0,No covid
+2393,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-2394.png,1,Covid
+627,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-628.png,1,Covid
+10187,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-560.png,0,No covid
+11804,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-2177.png,0,No covid
+18121,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-8495.png,0,No covid
+15828,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-6202.png,0,No covid
+13719,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-4092.png,0,No covid
+640,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-641.png,1,Covid
+17643,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-8017.png,0,No covid
+10108,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-481.png,0,No covid
+11473,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-1846.png,0,No covid
+241,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-242.png,1,Covid
+16077,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-6451.png,0,No covid
+19737,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-10111.png,0,No covid
+17708,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-8082.png,0,No covid
+766,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-767.png,1,Covid
+17863,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-8237.png,0,No covid
+12846,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-3219.png,0,No covid
+16591,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-6965.png,0,No covid
+11034,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-1407.png,0,No covid
+3289,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-3290.png,1,Covid
+12766,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-3139.png,0,No covid
+12634,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-3007.png,0,No covid
+11369,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-1742.png,0,No covid
+1884,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-1885.png,1,Covid
+16640,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-7014.png,0,No covid
+10525,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-898.png,0,No covid
+14911,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-5285.png,0,No covid
+3444,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-3445.png,1,Covid
+1843,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-1844.png,1,Covid
+10926,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-1299.png,0,No covid
+15628,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-6002.png,0,No covid
+10299,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-672.png,0,No covid
+11413,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-1786.png,0,No covid
+10787,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-1160.png,0,No covid
+11511,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-1884.png,0,No covid
+2853,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-2854.png,1,Covid
+18531,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-8905.png,0,No covid
+1082,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-1083.png,1,Covid
+1733,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-1734.png,1,Covid
+17639,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-8013.png,0,No covid
+19246,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-9620.png,0,No covid
+16820,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-7194.png,0,No covid
+13305,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-3678.png,0,No covid
+9815,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-188.png,0,No covid
+17150,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-7524.png,0,No covid
+19654,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-10028.png,0,No covid
+15938,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-6312.png,0,No covid
+17262,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-7636.png,0,No covid
+17530,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-7904.png,0,No covid
+2139,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-2140.png,1,Covid
+17371,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-7745.png,0,No covid
+18711,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-9085.png,0,No covid
+317,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-318.png,1,Covid
+563,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-564.png,1,Covid
+10968,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-1341.png,0,No covid
+2489,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-2490.png,1,Covid
+1696,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-1697.png,1,Covid
+10253,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-626.png,0,No covid
+10055,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-428.png,0,No covid
+12757,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-3130.png,0,No covid
+14518,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-4892.png,0,No covid
+19314,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-9688.png,0,No covid
+12810,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-3183.png,0,No covid
+19787,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-10161.png,0,No covid
+10231,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-604.png,0,No covid
+12746,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-3119.png,0,No covid
+15500,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-5874.png,0,No covid
+600,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-601.png,1,Covid
+1306,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-1307.png,1,Covid
+13401,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-3774.png,0,No covid
+2693,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-2694.png,1,Covid
+608,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-609.png,1,Covid
+18369,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-8743.png,0,No covid
+18090,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-8464.png,0,No covid
+337,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-338.png,1,Covid
+19484,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-9858.png,0,No covid
+18200,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-8574.png,0,No covid
+14769,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-5143.png,0,No covid
+1986,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-1987.png,1,Covid
+16833,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-7207.png,0,No covid
+14891,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-5265.png,0,No covid
+18999,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-9373.png,0,No covid
+12049,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-2422.png,0,No covid
+15325,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-5699.png,0,No covid
+502,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-503.png,1,Covid
+14105,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-4478.png,0,No covid
+3152,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-3153.png,1,Covid
+18701,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-9075.png,0,No covid
+2777,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-2778.png,1,Covid
+13511,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-3884.png,0,No covid
+14834,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-5208.png,0,No covid
+18920,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-9294.png,0,No covid
+18361,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-8735.png,0,No covid
+18895,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-9269.png,0,No covid
+1704,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-1705.png,1,Covid
+12654,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-3027.png,0,No covid
+18978,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-9352.png,0,No covid
+16204,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-6578.png,0,No covid
+1257,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-1258.png,1,Covid
+11318,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-1691.png,0,No covid
+12618,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-2991.png,0,No covid
+18896,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-9270.png,0,No covid
+12143,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-2516.png,0,No covid
+10492,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-865.png,0,No covid
+3410,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-3411.png,1,Covid
+15496,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-5870.png,0,No covid
+13151,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-3524.png,0,No covid
+418,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-419.png,1,Covid
+11599,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-1972.png,0,No covid
+2532,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-2533.png,1,Covid
+2767,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-2768.png,1,Covid
+17435,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-7809.png,0,No covid
+12214,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-2587.png,0,No covid
+18883,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-9257.png,0,No covid
+19508,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-9882.png,0,No covid
+1698,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-1699.png,1,Covid
+1294,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-1295.png,1,Covid
+1434,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-1435.png,1,Covid
+16065,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-6439.png,0,No covid
+379,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-380.png,1,Covid
+17580,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-7954.png,0,No covid
+2945,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-2946.png,1,Covid
+10308,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-681.png,0,No covid
+14236,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-4609.png,0,No covid
+19410,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-9784.png,0,No covid
+14018,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-4391.png,0,No covid
+15529,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-5903.png,0,No covid
+19103,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-9477.png,0,No covid
+12520,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-2893.png,0,No covid
+835,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-836.png,1,Covid
+10507,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-880.png,0,No covid
+10514,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-887.png,0,No covid
+2558,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-2559.png,1,Covid
+14187,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-4560.png,0,No covid
+9638,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-11.png,0,No covid
+2904,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-2905.png,1,Covid
+16992,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-7366.png,0,No covid
+14641,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-5015.png,0,No covid
+9855,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-228.png,0,No covid
+14780,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-5154.png,0,No covid
+13398,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-3771.png,0,No covid
+12872,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-3245.png,0,No covid
+14421,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-4795.png,0,No covid
+641,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-642.png,1,Covid
+10678,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-1051.png,0,No covid
+13400,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-3773.png,0,No covid
+12415,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-2788.png,0,No covid
+10468,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-841.png,0,No covid
+2690,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-2691.png,1,Covid
+13949,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-4322.png,0,No covid
+19260,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-9634.png,0,No covid
+10912,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-1285.png,0,No covid
+19264,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-9638.png,0,No covid
+15864,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-6238.png,0,No covid
+1682,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-1683.png,1,Covid
+13008,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-3381.png,0,No covid
+18476,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-8850.png,0,No covid
+13242,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-3615.png,0,No covid
+2824,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-2825.png,1,Covid
+1589,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-1590.png,1,Covid
+3242,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-3243.png,1,Covid
+1021,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-1022.png,1,Covid
+19487,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-9861.png,0,No covid
+3512,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-3513.png,1,Covid
+19207,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-9581.png,0,No covid
+10219,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-592.png,0,No covid
+17755,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-8129.png,0,No covid
+19014,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-9388.png,0,No covid
+19576,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-9950.png,0,No covid
+12859,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-3232.png,0,No covid
+3342,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-3343.png,1,Covid
+14150,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-4523.png,0,No covid
+19077,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-9451.png,0,No covid
+17966,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-8340.png,0,No covid
+3519,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-3520.png,1,Covid
+19614,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-9988.png,0,No covid
+11966,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-2339.png,0,No covid
+13926,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-4299.png,0,No covid
+15418,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-5792.png,0,No covid
+9986,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-359.png,0,No covid
+1154,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-1155.png,1,Covid
+18846,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-9220.png,0,No covid
+3219,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-3220.png,1,Covid
+11031,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-1404.png,0,No covid
+16096,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-6470.png,0,No covid
+14165,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-4538.png,0,No covid
+16512,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-6886.png,0,No covid
+1400,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-1401.png,1,Covid
+17849,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-8223.png,0,No covid
+1300,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-1301.png,1,Covid
+2814,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-2815.png,1,Covid
+14040,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-4413.png,0,No covid
+19544,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-9918.png,0,No covid
+19801,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-10175.png,0,No covid
+14894,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-5268.png,0,No covid
+18347,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-8721.png,0,No covid
+17016,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-7390.png,0,No covid
+10295,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-668.png,0,No covid
+10604,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-977.png,0,No covid
+3485,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-3486.png,1,Covid
+15666,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-6040.png,0,No covid
+12709,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-3082.png,0,No covid
+18143,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-8517.png,0,No covid
+16301,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-6675.png,0,No covid
+18271,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-8645.png,0,No covid
+19313,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-9687.png,0,No covid
+11130,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-1503.png,0,No covid
+15877,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-6251.png,0,No covid
+10205,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-578.png,0,No covid
+13846,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-4219.png,0,No covid
+12710,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-3083.png,0,No covid
+1853,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-1854.png,1,Covid
+13257,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-3630.png,0,No covid
+2068,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-2069.png,1,Covid
+16837,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-7211.png,0,No covid
+12680,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-3053.png,0,No covid
+19363,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-9737.png,0,No covid
+13996,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-4369.png,0,No covid
+11054,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-1427.png,0,No covid
+1363,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-1364.png,1,Covid
+12788,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-3161.png,0,No covid
+11206,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-1579.png,0,No covid
+10396,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-769.png,0,No covid
+12591,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-2964.png,0,No covid
+9807,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-180.png,0,No covid
+3191,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-3192.png,1,Covid
+12847,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-3220.png,0,No covid
+13369,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-3742.png,0,No covid
+11912,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-2285.png,0,No covid
+13930,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-4303.png,0,No covid
+17678,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-8052.png,0,No covid
+16711,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-7085.png,0,No covid
+13611,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-3984.png,0,No covid
+17926,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-8300.png,0,No covid
+16348,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-6722.png,0,No covid
+18658,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-9032.png,0,No covid
+2734,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-2735.png,1,Covid
+17035,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-7409.png,0,No covid
+14056,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-4429.png,0,No covid
+2336,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-2337.png,1,Covid
+3202,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-3203.png,1,Covid
+10647,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-1020.png,0,No covid
+17064,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-7438.png,0,No covid
+12059,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-2432.png,0,No covid
+19407,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-9781.png,0,No covid
+10405,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-778.png,0,No covid
+11101,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-1474.png,0,No covid
+9884,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-257.png,0,No covid
+16414,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-6788.png,0,No covid
+16103,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-6477.png,0,No covid
+18595,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-8969.png,0,No covid
+2604,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-2605.png,1,Covid
+19150,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-9524.png,0,No covid
+1802,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-1803.png,1,Covid
+1095,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-1096.png,1,Covid
+18693,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-9067.png,0,No covid
+10674,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-1047.png,0,No covid
+3507,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-3508.png,1,Covid
+14410,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-4784.png,0,No covid
+11037,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-1410.png,0,No covid
+18815,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-9189.png,0,No covid
+18289,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-8663.png,0,No covid
+1479,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-1480.png,1,Covid
+16057,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-6431.png,0,No covid
+19502,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-9876.png,0,No covid
+1484,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-1485.png,1,Covid
+14287,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-4660.png,0,No covid
+15518,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-5892.png,0,No covid
+15795,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-6169.png,0,No covid
+12933,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-3306.png,0,No covid
+2572,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-2573.png,1,Covid
+18027,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-8401.png,0,No covid
+15605,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-5979.png,0,No covid
+13287,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-3660.png,0,No covid
+15076,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-5450.png,0,No covid
+1445,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-1446.png,1,Covid
+11735,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-2108.png,0,No covid
+975,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-976.png,1,Covid
+17556,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-7930.png,0,No covid
+1152,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-1153.png,1,Covid
+10839,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-1212.png,0,No covid
+870,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-871.png,1,Covid
+13845,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-4218.png,0,No covid
+11038,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-1411.png,0,No covid
+9860,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-233.png,0,No covid
+14590,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-4964.png,0,No covid
+1895,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-1896.png,1,Covid
+14323,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-4696.png,0,No covid
+16653,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-7027.png,0,No covid
+10544,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-917.png,0,No covid
+1515,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-1516.png,1,Covid
+13866,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-4239.png,0,No covid
+10426,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-799.png,0,No covid
+16222,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-6596.png,0,No covid
+18647,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-9021.png,0,No covid
+10989,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-1362.png,0,No covid
+17837,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-8211.png,0,No covid
+16656,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-7030.png,0,No covid
+17958,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-8332.png,0,No covid
+19181,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-9555.png,0,No covid
+10814,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-1187.png,0,No covid
+1998,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-1999.png,1,Covid
+14758,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-5132.png,0,No covid
+3469,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-3470.png,1,Covid
+1238,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-1239.png,1,Covid
+17060,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-7434.png,0,No covid
+14461,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-4835.png,0,No covid
+2237,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-2238.png,1,Covid
+12863,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-3236.png,0,No covid
+2169,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-2170.png,1,Covid
+3545,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-3546.png,1,Covid
+21,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-22.png,1,Covid
+15662,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-6036.png,0,No covid
+14276,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-4649.png,0,No covid
+11507,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-1880.png,0,No covid
+15112,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-5486.png,0,No covid
+10934,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-1307.png,0,No covid
+17028,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-7402.png,0,No covid
+9871,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-244.png,0,No covid
+11019,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-1392.png,0,No covid
+19305,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-9679.png,0,No covid
+12281,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-2654.png,0,No covid
+1603,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-1604.png,1,Covid
+11724,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-2097.png,0,No covid
+17386,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-7760.png,0,No covid
+10557,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-930.png,0,No covid
+1282,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-1283.png,1,Covid
+18087,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-8461.png,0,No covid
+13384,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-3757.png,0,No covid
+2520,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-2521.png,1,Covid
+1369,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-1370.png,1,Covid
+17843,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-8217.png,0,No covid
+202,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-203.png,1,Covid
+15757,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-6131.png,0,No covid
+10987,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-1360.png,0,No covid
+15940,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-6314.png,0,No covid
+1819,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-1820.png,1,Covid
+16511,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-6885.png,0,No covid
+13912,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-4285.png,0,No covid
+10817,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-1190.png,0,No covid
+17954,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-8328.png,0,No covid
+1923,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-1924.png,1,Covid
+3272,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-3273.png,1,Covid
+9861,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-234.png,0,No covid
+1147,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-1148.png,1,Covid
+18908,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-9282.png,0,No covid
+3314,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-3315.png,1,Covid
+18387,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-8761.png,0,No covid
+2363,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-2364.png,1,Covid
+3255,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-3256.png,1,Covid
+12124,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-2497.png,0,No covid
+2454,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-2455.png,1,Covid
+1482,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-1483.png,1,Covid
+10130,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-503.png,0,No covid
+18851,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-9225.png,0,No covid
+1899,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-1900.png,1,Covid
+10000,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-373.png,0,No covid
+15348,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-5722.png,0,No covid
+11428,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-1801.png,0,No covid
+960,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-961.png,1,Covid
+18278,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-8652.png,0,No covid
+13813,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-4186.png,0,No covid
+14110,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-4483.png,0,No covid
+14930,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-5304.png,0,No covid
+12011,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-2384.png,0,No covid
+13928,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-4301.png,0,No covid
+1354,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-1355.png,1,Covid
+11345,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-1718.png,0,No covid
+11942,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-2315.png,0,No covid
+2911,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-2912.png,1,Covid
+11838,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-2211.png,0,No covid
+12318,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-2691.png,0,No covid
+19717,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-10091.png,0,No covid
+10322,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-695.png,0,No covid
+403,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-404.png,1,Covid
+10809,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-1182.png,0,No covid
+16998,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-7372.png,0,No covid
+12647,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-3020.png,0,No covid
+2747,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-2748.png,1,Covid
+13993,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-4366.png,0,No covid
+392,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-393.png,1,Covid
+16585,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-6959.png,0,No covid
+10620,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-993.png,0,No covid
+2300,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-2301.png,1,Covid
+15122,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-5496.png,0,No covid
+1981,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-1982.png,1,Covid
+13034,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-3407.png,0,No covid
+1757,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-1758.png,1,Covid
+3547,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-3548.png,1,Covid
+474,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-475.png,1,Covid
+1969,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-1970.png,1,Covid
+17027,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-7401.png,0,No covid
+15660,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-6034.png,0,No covid
+14708,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-5082.png,0,No covid
+9776,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-149.png,0,No covid
+19052,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-9426.png,0,No covid
+10493,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-866.png,0,No covid
+10498,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-871.png,0,No covid
+19593,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-9967.png,0,No covid
+9732,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-105.png,0,No covid
+15186,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-5560.png,0,No covid
+130,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-131.png,1,Covid
+14778,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-5152.png,0,No covid
+19381,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-9755.png,0,No covid
+14345,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-4718.png,0,No covid
+10251,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-624.png,0,No covid
+17228,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-7602.png,0,No covid
+17654,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-8028.png,0,No covid
+13727,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-4100.png,0,No covid
+13544,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-3917.png,0,No covid
+1787,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-1788.png,1,Covid
+2278,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-2279.png,1,Covid
+16973,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-7347.png,0,No covid
+18932,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-9306.png,0,No covid
+14263,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-4636.png,0,No covid
+19649,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-10023.png,0,No covid
+16660,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-7034.png,0,No covid
+1643,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-1644.png,1,Covid
+12255,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-2628.png,0,No covid
+12225,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-2598.png,0,No covid
+14766,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-5140.png,0,No covid
+14412,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-4786.png,0,No covid
+17833,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-8207.png,0,No covid
+2568,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-2569.png,1,Covid
+2811,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-2812.png,1,Covid
+16609,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-6983.png,0,No covid
+2199,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-2200.png,1,Covid
+13778,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-4151.png,0,No covid
+10873,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-1246.png,0,No covid
+2848,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-2849.png,1,Covid
+492,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-493.png,1,Covid
+12348,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-2721.png,0,No covid
+160,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-161.png,1,Covid
+14795,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-5169.png,0,No covid
+16161,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-6535.png,0,No covid
+16970,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-7344.png,0,No covid
+15127,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-5501.png,0,No covid
+11068,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-1441.png,0,No covid
+15845,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-6219.png,0,No covid
+11917,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-2290.png,0,No covid
+1663,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-1664.png,1,Covid
+16910,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-7284.png,0,No covid
+2598,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-2599.png,1,Covid
+11650,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-2023.png,0,No covid
+13170,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-3543.png,0,No covid
+14204,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-4577.png,0,No covid
+16915,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-7289.png,0,No covid
+10172,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-545.png,0,No covid
+14869,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-5243.png,0,No covid
+11861,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-2234.png,0,No covid
+12294,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-2667.png,0,No covid
+455,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-456.png,1,Covid
+13779,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-4152.png,0,No covid
+16104,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-6478.png,0,No covid
+15635,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-6009.png,0,No covid
+659,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-660.png,1,Covid
+698,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-699.png,1,Covid
+17317,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-7691.png,0,No covid
+3171,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-3172.png,1,Covid
+15357,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-5731.png,0,No covid
+10425,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-798.png,0,No covid
+13037,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-3410.png,0,No covid
+15292,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-5666.png,0,No covid
+3614,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-3615.png,1,Covid
+12274,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-2647.png,0,No covid
+13810,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-4183.png,0,No covid
+2680,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-2681.png,1,Covid
+13027,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-3400.png,0,No covid
+2640,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-2641.png,1,Covid
+15586,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-5960.png,0,No covid
+12313,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-2686.png,0,No covid
+16059,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-6433.png,0,No covid
+1500,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-1501.png,1,Covid
+3427,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-3428.png,1,Covid
+15575,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-5949.png,0,No covid
+18894,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-9268.png,0,No covid
+10409,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-782.png,0,No covid
+10869,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-1242.png,0,No covid
+12298,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-2671.png,0,No covid
+11770,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-2143.png,0,No covid
+15915,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-6289.png,0,No covid
+18808,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-9182.png,0,No covid
+972,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-973.png,1,Covid
+13889,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-4262.png,0,No covid
+14712,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-5086.png,0,No covid
+19069,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-9443.png,0,No covid
+10109,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-482.png,0,No covid
+11886,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-2259.png,0,No covid
+12088,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-2461.png,0,No covid
+3380,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-3381.png,1,Covid
+10155,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-528.png,0,No covid
+18858,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-9232.png,0,No covid
+17369,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-7743.png,0,No covid
+34,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-35.png,1,Covid
+18436,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-8810.png,0,No covid
+3302,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-3303.png,1,Covid
+3234,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-3235.png,1,Covid
+1631,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-1632.png,1,Covid
+1751,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-1752.png,1,Covid
+10580,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-953.png,0,No covid
+19478,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-9852.png,0,No covid
+2301,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-2302.png,1,Covid
+15720,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-6094.png,0,No covid
+11460,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-1833.png,0,No covid
+13439,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-3812.png,0,No covid
+13808,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-4181.png,0,No covid
+13148,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-3521.png,0,No covid
+12947,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-3320.png,0,No covid
+16662,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-7036.png,0,No covid
+16391,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-6765.png,0,No covid
+16434,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-6808.png,0,No covid
+1051,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-1052.png,1,Covid
+1959,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-1960.png,1,Covid
+1478,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-1479.png,1,Covid
+11488,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-1861.png,0,No covid
+18707,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-9081.png,0,No covid
+122,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-123.png,1,Covid
+15711,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-6085.png,0,No covid
+9665,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-38.png,0,No covid
+12025,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-2398.png,0,No covid
+19630,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-10004.png,0,No covid
+19423,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-9797.png,0,No covid
+1796,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-1797.png,1,Covid
+16312,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-6686.png,0,No covid
+2027,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-2028.png,1,Covid
+1184,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-1185.png,1,Covid
+10058,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-431.png,0,No covid
+19629,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-10003.png,0,No covid
+16854,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-7228.png,0,No covid
+2255,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-2256.png,1,Covid
+19223,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-9597.png,0,No covid
+14403,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-4777.png,0,No covid
+11742,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-2115.png,0,No covid
+16039,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-6413.png,0,No covid
+2267,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-2268.png,1,Covid
+10427,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-800.png,0,No covid
+3099,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-3100.png,1,Covid
+3523,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-3524.png,1,Covid
+12208,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-2581.png,0,No covid
+18979,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-9353.png,0,No covid
+17396,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-7770.png,0,No covid
+2433,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-2434.png,1,Covid
+10401,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-774.png,0,No covid
+13111,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-3484.png,0,No covid
+2931,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-2932.png,1,Covid
+14357,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-4731.png,0,No covid
+1327,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-1328.png,1,Covid
+19652,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-10026.png,0,No covid
+9952,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-325.png,0,No covid
+13861,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-4234.png,0,No covid
+11100,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-1473.png,0,No covid
+11299,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-1672.png,0,No covid
+16890,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-7264.png,0,No covid
+15770,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-6144.png,0,No covid
+10084,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-457.png,0,No covid
+15235,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-5609.png,0,No covid
+12843,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-3216.png,0,No covid
+12722,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-3095.png,0,No covid
+1707,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-1708.png,1,Covid
+13385,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-3758.png,0,No covid
+18221,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-8595.png,0,No covid
+12204,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-2577.png,0,No covid
+17461,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-7835.png,0,No covid
+17683,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-8057.png,0,No covid
+2327,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-2328.png,1,Covid
+19639,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-10013.png,0,No covid
+14521,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-4895.png,0,No covid
+10702,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-1075.png,0,No covid
+13444,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-3817.png,0,No covid
+1367,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-1368.png,1,Covid
+1881,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-1882.png,1,Covid
+16283,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-6657.png,0,No covid
+1162,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-1163.png,1,Covid
+13181,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-3554.png,0,No covid
+18006,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-8380.png,0,No covid
+3104,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-3105.png,1,Covid
+10632,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-1005.png,0,No covid
+863,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-864.png,1,Covid
+3073,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-3074.png,1,Covid
+2182,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-2183.png,1,Covid
+2729,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-2730.png,1,Covid
+13551,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-3924.png,0,No covid
+13803,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-4176.png,0,No covid
+3491,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-3492.png,1,Covid
+12276,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-2649.png,0,No covid
+19401,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-9775.png,0,No covid
+1153,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-1154.png,1,Covid
+12995,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-3368.png,0,No covid
+19007,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-9381.png,0,No covid
+10972,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-1345.png,0,No covid
+11259,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-1632.png,0,No covid
+1648,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-1649.png,1,Covid
+13812,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-4185.png,0,No covid
+2146,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-2147.png,1,Covid
+3108,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-3109.png,1,Covid
+3516,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-3517.png,1,Covid
+1528,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-1529.png,1,Covid
+12447,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-2820.png,0,No covid
+14272,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-4645.png,0,No covid
+18492,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-8866.png,0,No covid
+19704,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-10078.png,0,No covid
+11356,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-1729.png,0,No covid
+11225,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-1598.png,0,No covid
+98,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-99.png,1,Covid
+2799,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-2800.png,1,Covid
+14652,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-5026.png,0,No covid
+10920,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-1293.png,0,No covid
+18717,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-9091.png,0,No covid
+12134,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-2507.png,0,No covid
+13202,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-3575.png,0,No covid
+10862,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-1235.png,0,No covid
+146,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-147.png,1,Covid
+2391,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-2392.png,1,Covid
+11459,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-1832.png,0,No covid
+1215,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-1216.png,1,Covid
+12475,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-2848.png,0,No covid
+1130,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-1131.png,1,Covid
+16408,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-6782.png,0,No covid
+16754,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-7128.png,0,No covid
+19790,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-10164.png,0,No covid
+2790,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-2791.png,1,Covid
+10823,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-1196.png,0,No covid
+19061,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-9435.png,0,No covid
+18085,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-8459.png,0,No covid
+15542,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-5916.png,0,No covid
+1579,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-1580.png,1,Covid
+12868,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-3241.png,0,No covid
+11337,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-1710.png,0,No covid
+17581,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-7955.png,0,No covid
+13867,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-4240.png,0,No covid
+19174,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-9548.png,0,No covid
+18802,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-9176.png,0,No covid
+19736,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-10110.png,0,No covid
+14997,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-5371.png,0,No covid
+14634,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-5008.png,0,No covid
+1522,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-1523.png,1,Covid
+2088,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-2089.png,1,Covid
+13722,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-4095.png,0,No covid
+2961,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-2962.png,1,Covid
+9782,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-155.png,0,No covid
+779,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-780.png,1,Covid
+12112,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-2485.png,0,No covid
+17397,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-7771.png,0,No covid
+15835,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-6209.png,0,No covid
+12650,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-3023.png,0,No covid
+14212,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-4585.png,0,No covid
+14221,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-4594.png,0,No covid
+12001,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-2374.png,0,No covid
+11151,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-1524.png,0,No covid
+2200,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-2201.png,1,Covid
+12336,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-2709.png,0,No covid
+14353,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-4727.png,0,No covid
+16238,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-6612.png,0,No covid
+3065,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-3066.png,1,Covid
+11963,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-2336.png,0,No covid
+19331,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-9705.png,0,No covid
+15384,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-5758.png,0,No covid
+18784,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-9158.png,0,No covid
+14555,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-4929.png,0,No covid
+10532,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-905.png,0,No covid
+2625,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-2626.png,1,Covid
+877,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-878.png,1,Covid
+15971,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-6345.png,0,No covid
+15167,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-5541.png,0,No covid
+14625,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-4999.png,0,No covid
+13982,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-4355.png,0,No covid
+12664,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-3037.png,0,No covid
+11089,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-1462.png,0,No covid
+11901,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-2274.png,0,No covid
+12453,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-2826.png,0,No covid
+17244,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-7618.png,0,No covid
+10010,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-383.png,0,No covid
+17567,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-7941.png,0,No covid
+378,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-379.png,1,Covid
+18724,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-9098.png,0,No covid
+13811,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-4184.png,0,No covid
+16488,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-6862.png,0,No covid
+293,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-294.png,1,Covid
+15501,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-5875.png,0,No covid
+11016,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-1389.png,0,No covid
+15665,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-6039.png,0,No covid
+1534,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-1535.png,1,Covid
+15473,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-5847.png,0,No covid
+14244,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-4617.png,0,No covid
+19524,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-9898.png,0,No covid
+17635,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-8009.png,0,No covid
+14059,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-4432.png,0,No covid
+14239,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-4612.png,0,No covid
+15504,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-5878.png,0,No covid
+14140,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-4513.png,0,No covid
+540,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-541.png,1,Covid
+10047,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-420.png,0,No covid
+13041,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-3414.png,0,No covid
+16031,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-6405.png,0,No covid
+1794,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-1795.png,1,Covid
+16063,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-6437.png,0,No covid
+18655,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-9029.png,0,No covid
+2135,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-2136.png,1,Covid
+13616,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-3989.png,0,No covid
+1634,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-1635.png,1,Covid
+955,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-956.png,1,Covid
+17364,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-7738.png,0,No covid
+10074,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-447.png,0,No covid
+1955,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-1956.png,1,Covid
+17355,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-7729.png,0,No covid
+14350,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-4723.png,0,No covid
+200,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-201.png,1,Covid
+19678,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-10052.png,0,No covid
+3157,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-3158.png,1,Covid
+10537,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-910.png,0,No covid
+12314,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-2687.png,0,No covid
+13291,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-3664.png,0,No covid
+13195,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-3568.png,0,No covid
+12412,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-2785.png,0,No covid
+12761,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-3134.png,0,No covid
+15583,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-5957.png,0,No covid
+10477,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-850.png,0,No covid
+12148,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-2521.png,0,No covid
+13500,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-3873.png,0,No covid
+19039,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-9413.png,0,No covid
+15567,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-5941.png,0,No covid
+15812,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-6186.png,0,No covid
+663,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-664.png,1,Covid
+11588,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-1961.png,0,No covid
+10716,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-1089.png,0,No covid
+9694,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-67.png,0,No covid
+14131,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-4504.png,0,No covid
+15455,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-5829.png,0,No covid
+14607,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-4981.png,0,No covid
+11535,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-1908.png,0,No covid
+17649,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-8023.png,0,No covid
+10668,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-1041.png,0,No covid
+12457,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-2830.png,0,No covid
+815,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-816.png,1,Covid
+18581,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-8955.png,0,No covid
+330,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-331.png,1,Covid
+12758,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-3131.png,0,No covid
+19424,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-9798.png,0,No covid
+1597,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-1598.png,1,Covid
+18606,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-8980.png,0,No covid
+3599,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-3600.png,1,Covid
+10117,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-490.png,0,No covid
+3480,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-3481.png,1,Covid
+18097,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-8471.png,0,No covid
+19013,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-9387.png,0,No covid
+11291,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-1664.png,0,No covid
+15025,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-5399.png,0,No covid
+14157,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-4530.png,0,No covid
+3112,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-3113.png,1,Covid
+15457,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-5831.png,0,No covid
+14830,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-5204.png,0,No covid
+12844,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-3217.png,0,No covid
+11482,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-1855.png,0,No covid
+15892,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-6266.png,0,No covid
+18744,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-9118.png,0,No covid
+702,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-703.png,1,Covid
+1570,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-1571.png,1,Covid
+9736,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-109.png,0,No covid
+1390,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-1391.png,1,Covid
+769,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-770.png,1,Covid
+11310,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-1683.png,0,No covid
+11417,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-1790.png,0,No covid
+2660,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-2661.png,1,Covid
+18379,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-8753.png,0,No covid
+19470,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-9844.png,0,No covid
+19752,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-10126.png,0,No covid
+253,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-254.png,1,Covid
+10601,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-974.png,0,No covid
+13976,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-4349.png,0,No covid
+2317,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-2318.png,1,Covid
+1,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-2.png,1,Covid
+12631,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-3004.png,0,No covid
+14163,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-4536.png,0,No covid
+9724,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-97.png,0,No covid
+10344,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-717.png,0,No covid
+12030,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-2403.png,0,No covid
+1038,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-1039.png,1,Covid
+562,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-563.png,1,Covid
+3340,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-3341.png,1,Covid
+10193,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-566.png,0,No covid
+11401,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-1774.png,0,No covid
+18611,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-8985.png,0,No covid
+1291,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-1292.png,1,Covid
+17013,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-7387.png,0,No covid
+10728,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-1101.png,0,No covid
+10840,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-1213.png,0,No covid
+2869,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-2870.png,1,Covid
+17005,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-7379.png,0,No covid
+2101,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-2102.png,1,Covid
+13513,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-3886.png,0,No covid
+17566,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-7940.png,0,No covid
+1076,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-1077.png,1,Covid
+10460,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-833.png,0,No covid
+15572,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-5946.png,0,No covid
+1863,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-1864.png,1,Covid
+14571,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-4945.png,0,No covid
+13052,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-3425.png,0,No covid
+16669,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-7043.png,0,No covid
+11305,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-1678.png,0,No covid
+16367,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-6741.png,0,No covid
+18539,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-8913.png,0,No covid
+13189,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-3562.png,0,No covid
+13528,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-3901.png,0,No covid
+15559,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-5933.png,0,No covid
+12640,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-3013.png,0,No covid
+15406,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-5780.png,0,No covid
+12141,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-2514.png,0,No covid
+12421,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-2794.png,0,No covid
+12610,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-2983.png,0,No covid
+19100,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-9474.png,0,No covid
+16567,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-6941.png,0,No covid
+2253,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-2254.png,1,Covid
+17447,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-7821.png,0,No covid
+1439,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-1440.png,1,Covid
+9992,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-365.png,0,No covid
+16130,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-6504.png,0,No covid
+19239,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-9613.png,0,No covid
+17151,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-7525.png,0,No covid
+18253,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-8627.png,0,No covid
+2796,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-2797.png,1,Covid
+10128,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-501.png,0,No covid
+17401,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-7775.png,0,No covid
+17318,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-7692.png,0,No covid
+13375,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-3748.png,0,No covid
+17126,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-7500.png,0,No covid
+16019,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-6393.png,0,No covid
+13501,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-3874.png,0,No covid
+15239,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-5613.png,0,No covid
+13896,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-4269.png,0,No covid
+878,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-879.png,1,Covid
+16941,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-7315.png,0,No covid
+3312,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-3313.png,1,Covid
+12005,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-2378.png,0,No covid
+15958,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-6332.png,0,No covid
+10614,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-987.png,0,No covid
+17260,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-7634.png,0,No covid
+2511,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-2512.png,1,Covid
+12708,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-3081.png,0,No covid
+11790,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-2163.png,0,No covid
+14010,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-4383.png,0,No covid
+17746,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-8120.png,0,No covid
+1495,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-1496.png,1,Covid
+17269,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-7643.png,0,No covid
+17911,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-8285.png,0,No covid
+3404,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-3405.png,1,Covid
+10821,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-1194.png,0,No covid
+397,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-398.png,1,Covid
+18122,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-8496.png,0,No covid
+10872,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-1245.png,0,No covid
+13983,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-4356.png,0,No covid
+16135,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-6509.png,0,No covid
+683,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-684.png,1,Covid
+11048,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-1421.png,0,No covid
+14431,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-4805.png,0,No covid
+11241,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-1614.png,0,No covid
+16690,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-7064.png,0,No covid
+3390,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-3391.png,1,Covid
+14857,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-5231.png,0,No covid
+12516,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-2889.png,0,No covid
+14135,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-4508.png,0,No covid
+11137,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-1510.png,0,No covid
+880,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-881.png,1,Covid
+18291,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-8665.png,0,No covid
+16571,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-6945.png,0,No covid
+10338,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-711.png,0,No covid
+2264,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-2265.png,1,Covid
+3304,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-3305.png,1,Covid
+2191,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-2192.png,1,Covid
+648,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-649.png,1,Covid
+2999,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-3000.png,1,Covid
+18969,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-9343.png,0,No covid
+1636,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-1637.png,1,Covid
+15268,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-5642.png,0,No covid
+763,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-764.png,1,Covid
+15966,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-6340.png,0,No covid
+1180,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-1181.png,1,Covid
+13311,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-3684.png,0,No covid
+19055,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-9429.png,0,No covid
+10318,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-691.png,0,No covid
+13720,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-4093.png,0,No covid
+10065,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-438.png,0,No covid
+15633,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-6007.png,0,No covid
+13939,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-4312.png,0,No covid
+18629,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-9003.png,0,No covid
+16246,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-6620.png,0,No covid
+17796,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-8170.png,0,No covid
+12386,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-2759.png,0,No covid
+16862,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-7236.png,0,No covid
+18263,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-8637.png,0,No covid
+19404,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-9778.png,0,No covid
+9708,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-81.png,0,No covid
+13746,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-4119.png,0,No covid
+16937,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-7311.png,0,No covid
+17226,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-7600.png,0,No covid
+15831,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-6205.png,0,No covid
+19182,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-9556.png,0,No covid
+17614,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-7988.png,0,No covid
+1678,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-1679.png,1,Covid
+2888,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-2889.png,1,Covid
+646,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-647.png,1,Covid
+11603,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-1976.png,0,No covid
+16232,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-6606.png,0,No covid
+16078,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-6452.png,0,No covid
+3170,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-3171.png,1,Covid
+3029,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-3030.png,1,Covid
+17022,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-7396.png,0,No covid
+17589,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-7963.png,0,No covid
+16517,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-6891.png,0,No covid
+13281,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-3654.png,0,No covid
+1443,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-1444.png,1,Covid
+11614,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-1987.png,0,No covid
+12776,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-3149.png,0,No covid
+10520,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-893.png,0,No covid
+1275,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-1276.png,1,Covid
+13651,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-4024.png,0,No covid
+2842,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-2843.png,1,Covid
+17398,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-7772.png,0,No covid
+1267,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-1268.png,1,Covid
+11074,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-1447.png,0,No covid
+12732,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-3105.png,0,No covid
+12759,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-3132.png,0,No covid
+3002,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-3003.png,1,Covid
+791,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-792.png,1,Covid
+17453,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-7827.png,0,No covid
+12913,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-3286.png,0,No covid
+1485,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-1486.png,1,Covid
+10517,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-890.png,0,No covid
+12092,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-2465.png,0,No covid
+860,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-861.png,1,Covid
+12716,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-3089.png,0,No covid
+18889,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-9263.png,0,No covid
+1028,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-1029.png,1,Covid
+10226,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-599.png,0,No covid
+2944,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-2945.png,1,Covid
+15020,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-5394.png,0,No covid
+13588,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-3961.png,0,No covid
+13998,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-4371.png,0,No covid
+14733,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-5107.png,0,No covid
+10408,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-781.png,0,No covid
+18459,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-8833.png,0,No covid
+15804,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-6178.png,0,No covid
+466,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-467.png,1,Covid
+14669,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-5043.png,0,No covid
+14022,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-4395.png,0,No covid
+12166,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-2539.png,0,No covid
+19295,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-9669.png,0,No covid
+15219,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-5593.png,0,No covid
+16309,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-6683.png,0,No covid
+10959,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-1332.png,0,No covid
+16601,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-6975.png,0,No covid
+10860,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-1233.png,0,No covid
+17252,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-7626.png,0,No covid
+12396,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-2769.png,0,No covid
+2214,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-2215.png,1,Covid
+1136,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-1137.png,1,Covid
+9874,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-247.png,0,No covid
+19378,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-9752.png,0,No covid
+15174,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-5548.png,0,No covid
+15397,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-5771.png,0,No covid
+19119,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-9493.png,0,No covid
+14312,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-4685.png,0,No covid
+13647,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-4020.png,0,No covid
+11956,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-2329.png,0,No covid
+3534,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-3535.png,1,Covid
+10826,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-1199.png,0,No covid
+14111,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-4484.png,0,No covid
+15780,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-6154.png,0,No covid
+17466,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-7840.png,0,No covid
+10317,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-690.png,0,No covid
+747,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-748.png,1,Covid
+14556,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-4930.png,0,No covid
+13736,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-4109.png,0,No covid
+13323,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-3696.png,0,No covid
+17074,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-7448.png,0,No covid
+10707,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-1080.png,0,No covid
+15740,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-6114.png,0,No covid
+12403,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-2776.png,0,No covid
+10388,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-761.png,0,No covid
+11867,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-2240.png,0,No covid
+10723,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-1096.png,0,No covid
+19101,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-9475.png,0,No covid
+19032,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-9406.png,0,No covid
+16446,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-6820.png,0,No covid
+17860,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-8234.png,0,No covid
+9957,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-330.png,0,No covid
+2731,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-2732.png,1,Covid
+14765,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-5139.png,0,No covid
+19104,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-9478.png,0,No covid
+2385,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-2386.png,1,Covid
+12160,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-2533.png,0,No covid
+12465,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-2838.png,0,No covid
+2049,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-2050.png,1,Covid
+10788,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-1161.png,0,No covid
+775,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-776.png,1,Covid
+14951,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-5325.png,0,No covid
+9980,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-353.png,0,No covid
+17788,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-8162.png,0,No covid
+18989,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-9363.png,0,No covid
+11282,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-1655.png,0,No covid
+11736,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-2109.png,0,No covid
+15000,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-5374.png,0,No covid
+19035,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-9409.png,0,No covid
+15458,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-5832.png,0,No covid
+15755,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-6129.png,0,No covid
+19165,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-9539.png,0,No covid
+18796,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-9170.png,0,No covid
+12360,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-2733.png,0,No covid
+17201,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-7575.png,0,No covid
+16394,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-6768.png,0,No covid
+161,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-162.png,1,Covid
+15595,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-5969.png,0,No covid
+12050,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-2423.png,0,No covid
+3385,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-3386.png,1,Covid
+2432,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-2433.png,1,Covid
+15191,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-5565.png,0,No covid
+14466,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-4840.png,0,No covid
+19027,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-9401.png,0,No covid
+3407,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-3408.png,1,Covid
+10957,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-1330.png,0,No covid
+16337,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-6711.png,0,No covid
+10340,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-713.png,0,No covid
+1016,.../covid_kaggle_256/COVID-19_Radiography_Dataset/COVID/images/COVID-1017.png,1,Covid
+9837,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-210.png,0,No covid
+11323,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-1696.png,0,No covid
+18861,.../covid_kaggle_256/COVID-19_Radiography_Dataset/Normal/images/Normal-9235.png,0,No covid

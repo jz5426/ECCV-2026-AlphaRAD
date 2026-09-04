@@ -1,0 +1,6 @@
+chexlocalize_seg:
+  name: "chexlocalize_seg"
+  data_type: "image_classification"
+  data_path: "/configs/data_csv/chestXlocalize_seg.csv"
+  n_class: 1
+  normalize: ${designs.model.image_encoder.configs.normalize}

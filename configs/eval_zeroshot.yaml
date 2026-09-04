@@ -1,0 +1,49 @@
+defaults:
+  - _self_
+  - data_test:
+
+    - chexpert
+    - covidkaggle
+    - chestXDet10_gt
+    - qatacovid_seg
+    - chexlocalize_seg
+
+  - dataloader: dataloader_256 #dataloader_256 dataloader_debug
+
+base:
+  seed: 1234
+
+seg_save_dir: null
+test:
+  checkpoint: 
+    - /path/to/checkpoints/that/end/with/.tar
+
+  seed: 1234
+
+hydra:
+  run:
+    dir: ./eval_outputs/${now:%Y-%m-%d}/${now:%H-%M-%S}
+  job_logging:
+    version: 1
+    formatters:
+      simple:
+        format: "%(message)s"
+    handlers:
+      console:
+        class: logging.StreamHandler
+        formatter: simple
+        stream: ext://sys.stdout
+      file:
+        class: logging.FileHandler
+        filename: ${hydra.run.dir}/evaluate.log
+        formatter: simple
+    root:
+      level: INFO
+      handlers: [file, console]
+    disable_existing_loggers: false
+
+designs:
+  model:
+    image_encoder:
+      configs:
+        normalize: null # intentional

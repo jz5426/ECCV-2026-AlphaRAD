@@ -1,0 +1,6 @@
+chestxdet10_gt:
+  name: "chestxdet10_gt"
+  data_type: "image_classification"
+  data_path: "/configs/data_csv/chestXDet10_gt.csv"
+  n_class: 10
+  normalize: ${designs.model.image_encoder.configs.normalize}
